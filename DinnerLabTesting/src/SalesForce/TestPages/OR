@@ -1,0 +1,114 @@
+========================================Login credentials=========================================================================
+Username=//input[@name='username']
+Password=//input[@ type='password']
+Login=//input[@ type='submit']
+ 
+ 
+ 
+=======================================click on app launcher image=================================================================
+app=//nav/button/div 
+search=(//div[@class=\"slds-form-element__control\"]//input) 
+salesapp=(//mark[text()=\"Sales\"])[3]
+
+
+
+=======================================creation of lead=============================================================================
+LeadTab=(//one-app-nav-bar/descendant::one-app-nav-bar-item-root)[2]
+NewButton=//div[@title=\"New\"]
+ClickSalutation=(//a[@class=\"select\"])[1]
+SelectSalutation=(//div[@class=\"select-options\"])[7]//li
+FirstName=(//div[@class=\"uiInput uiInputText uiInput--default uiInput--input\"])[1]/input
+LastName=(//div[@class=\"uiInput uiInputText uiInput--default uiInput--input\"])[2]/input
+Company=(//div[@class=\"uiInput uiInputText uiInput--default uiInput--input\"])[3]/input
+Country=(//div[@class=\"uiInput uiInputText uiInput--default uiInput--input\"])[8]/input
+SaveButton=//div[@class=\"forceModalActionContainer--footerAction forceModalActionContainer\"]/button[3]
+ConvertButton=(//ul[@ data-aura-class=\"oneActionsRibbon forceActionsContainer\"])[2]/descendant::li[4]
+ConfirmConvert=//a[@title=\"Convert\"]
+Convert=//div[@class=\"modal-container slds-modal__container\"]/descendant::button[6]
+LeadButton=//div[@class=\"modal-container slds-modal__container\"]/descendant::button[3]
+
+
+
+========================================CreateEditAccount===========================================================================
+AccountTab=(//one-app-nav-bar/descendant::one-app-nav-bar-item-root)[3]
+SelectRecord=(//a[@title=\"MindLinks Solution Pvt Ltd\"])[1]
+Arrowbutton=//span[text()='MindLinks Solution Pvt Ltd']/ancestor::div[@class=\"slds-grid primaryFieldRow\"]/descendant::li[5]
+EditButton=//div[@class=\"branding-actions actionMenu\"]/descendant::li
+Description=//div[@class=\"modal-container slds-modal__container\"]/descendant::span[text()=\"Account Number\"]/following::input[1]
+AccountSaveButton=//div[@class=\"modal-container slds-modal__container\"]/descendant::button[4]
+
+
+
+
+========================================CreateEditContact============================================================================
+ContactTab=(//one-app-nav-bar/descendant::one-app-nav-bar-item-root)[4]
+ContactSelect=//a[@title=\"Albert James\"]
+ContactArrowbutton=//span[text()='Ms. Albert James']/ancestor::div[4]/div[2]/descendant::li[4]
+ContactEditButton=//div[@class=\"branding-actions actionMenu\"]/descendant::li
+ContactDescription=((//div[@class=\"modal-container slds-modal__container\"]/div)[2]/descendant::input)[1]
+ContactSaveButton=(//div[@class=\"modal-container slds-modal__container\"]/div)[3]/descendant::button[@title=\"Save\"]
+
+
+
+========================================CreateEditOpportunity=======================================================================
+OpportunityTab=(//one-app-nav-bar/descendant::one-app-nav-bar-item-root)[5]
+OpportunitySelect=(//a[@title=\"MindLinks Solution Pvt Ltd-\"])[1]
+OpportunityArrowbutton=//span[text()='MindLinks Solution Pvt Ltd-']/ancestor::div[3]/div[2]/descendant::ul/li[4]
+OpportunityEditButton=//div[@class=\"branding-actions actionMenu\"]/descendant::li
+OpportunityAmount=((//div[@class=\"modal-container slds-modal__container\"]/div)[2]/descendant::input)[1]
+OpportunitySaveButton=(//div[@class=\"modal-container slds-modal__container\"]/div)[3]/descendant::button[@title=\"Save\"]
+
+
+
+=========================================CreateCase===============================================================================
+CaseTab=(//one-app-nav-bar/descendant::one-app-nav-bar-item-root)[8]
+CaseNewButton=//a[@title=\"New\"]/div
+CaseOrigin=(//a[@class=\"select\"])[3]
+CaseSelectOrigin=//a[text()=\"Phone\"]
+CaseType=(//a[@class=\"select\"])[4]
+CaseSelectType=//a[text()=\"Mechanical\"]
+CaseReason=(//a[@class=\"select\"])[5]
+CaseselectReason=//a[text()=\"Installation\"]
+CaseSubject=//label/span[text()='Subject']//following::input[1]
+CaseSaveButton=//button[@class=\"slds-button slds-button--neutral uiButton--default uiButton--brand uiButton forceActionButton\"]
+CaseEdit=//div[text()=\"Edit\"]
+CasePriority=(//a[@class=\"select\"])[2]
+CaseSelectPriority=//a[@title=\"High\"]
+CaseEditSave=//button[@class=\"slds-button slds-button--neutral uiButton--default uiButton--brand uiButton forceActionButton\"]
+
+
+
+========================================oppurtunity(Task)===============================================================================
+Taskrecord=(//a[@title=\"MindLinks Solution Pvt Ltd-\"])[1]
+TaskAddbutton=(//button[@title=\"Create a task...\"])
+TaskDuedate=//input[@class=\"inputDate input\"]
+Taskstatus=//a[@class=\"select\"]
+Taskselectstatus=//div[@class=\"select-options\"]/descendant::li/a[@title='In Progress']
+TaskSaveButton=(//div[@class=\"bottomBarRight slds-col--bump-left\"]/descendant::span)[1]
+TaskSelectRecord=//a[@class='subjectLink slds-truncate'][@title='Send Quote']
+Tasklabel=//div[@class="tabset slds-tabs_card uiTabset--base uiTabset--default uiTabset--dense uiTabset flexipageTabset"]
+TaskSubject=(//div[@class=\"slds-grid slds-col slds-is-editing slds-has-flexi-truncate mdp forcePageBlockItem forcePageBlockItemEdit\"])[1]/descendant::input
+TaskSelectSubject=(//div[@role=\"listbox\" ])[2]/lightning-base-combobox-item
+
+
+
+=========================================oppurtunitycall=========================================================================
+oppurtunitytab=//a[@title=\"Opportunities\"]/span
+Callrecord=(//a[@title=\"MindLinks Solution Pvt Ltd-\"])[1]
+CallLink=//a[@title=\"Log a Call\"]
+CallComments=//textarea[@class=\"textarea textarea uiInput uiInputTextArea uiInput--default uiInput--textarea\"]
+CallSaveButton=(//div[@class=\"bottomBarRight slds-col--bump-left\"]/descendant::span)
+CallSelectRecord=//a[@title=\"Call\"]
+
+
+
+===========================================oppurtunityevent======================================================================
+Eventrecord=(//a[@title=\"MindLinks Solution Pvt Ltd-\"])[1]
+Eventlink=(//a[@title=\"New Event\"]/span)[2]
+EventSubject=(//div[@class=\"slds-combobox__form-element slds-input-has-icon slds-input-has-icon_right\"])[2]
+EventSelectSubject=(//div[@role=\"listbox\"])/lightning-base-combobox-item
+AlldayEvent=//div[@class=\"uiInput uiInputCheckbox uiInput--default uiInput--checkbox\"]/input
+EventSaveButton=(//button[@class=\"slds-button slds-button--brand cuf-publisherShareButton MEDIUM uiButton\"])
+EventSelectRecord=//a[@title=\"Send Letter/Quote\"]
+
+

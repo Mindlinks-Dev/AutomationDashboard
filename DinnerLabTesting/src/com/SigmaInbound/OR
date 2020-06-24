@@ -1,0 +1,225 @@
+Username=//input[@name='username']
+Password=//input[@ type='password']
+Login=//input[@ type='submit']
+
+//Create account
+Acctab=(//one-app-nav-bar[@class='slds-grid slds-has-flexi-truncate'])//one-app-nav-bar-item-root[2]
+AccNew=//a/div[text()='New']
+AccVendor=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Vendor']
+AccAgency=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Agency']
+AccCustomer=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Customer']
+AccEmployee=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Employee']
+AccLocation=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Location']
+AccLogistics=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Logistics']
+AccPackageLoc=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Packaged Location']
+AccReceivingLoc=//div[@class='changeRecordTypeOptionRightColumn']/span[text()='Receiving Location']
+AccNext=//button/span[text()='Next']
+AccName=//label/span[text()='Account Name']/following::input[1]
+AccEmail=//input[@class=' input'][@type='email']
+AccActiveClick=(//a[@class='select'])[1]
+AccActiveList=//div[@class='select-options']/ul/li
+AccSave=//div[@class='modal-footer slds-modal__footer']//button[3]
+CurrencyCode=//label/span[text()='Currency code']/following::input[1]
+Email=//label/span[text()='Email']/following::input[1]
+ShippingStreet=(//textarea[@role='textbox'])[1]
+ShippingCity=//label/span[text()='Shipping City']/following::input[1]
+ShippingState=//label/span[text()='Shipping State/Province']/following::input[1]
+ShippingZip=//label/span[text()='Shipping Zip/Postal Code']/following::input[1]
+ShippingCountry=//label/span[text()='Shipping Country']/following::input[1]
+AutoPay=//label/span[text()='autopay']/following::input[1]
+AccAddress=//label/span[text()='Address']/following::input[1]
+AccCity=//label/span[text()='City']/following::input[1]
+AccState=//label/span[text()='State']/following::input[1]
+AccCountry=//label/span[text()='Country']/following::input[1]
+AccZip=//label/span[text()='Zip']/following::input[1]
+AccPhone=//label/span[text()='Phone']/following::input[1]
+AccFax=//label/span[text()='Fax']/following::input[1]
+
+//Create product
+
+AppLauncher=//div[@class='slds-icon-waffle']
+SigmaErp=//div[@class='slds-form-element__control slds-grow slds-input-has-icon slds-input-has-icon_left-right']//following::input[@type="search"]
+SigmaERPQA=(//div[@class='slds-app-launcher__tile-body'])[1]
+Prodtab=(//one-app-nav-bar[@class='slds-grid slds-has-flexi-truncate'])//one-app-nav-bar-item-root[4]
+Newbutton=//div[@class="slds-grid"]/div[2]/ul
+Bom=(//div[@class='changeRecordTypeOptionRightColumn']/span)[1]
+Individual=(//div[@class='changeRecordTypeOptionRightColumn']/span)[2]
+Next=//button[@type='button']/span[text()='Next']
+Prodname=(//div[@class='uiInput uiInputText uiInput--default uiInput--input'])[1]/input
+Attributetype=(//div[@class='uiPopupTrigger'])[1]
+AttributetypeList=(//ul[@role='presentation']/li)
+ReorderQty=(//div[@class='uiInput uiInputNumber uiInput--default uiInput--input']/input)[2]
+ThresholdQty=(//div[@class='uiInput uiInputNumber uiInput--default uiInput--input']/input)[3]
+MinQty=(//div[@class='uiInput uiInputNumber uiInput--default uiInput--input']/input)[4]
+SellingPrice=(//div[@class='uiInput uiInput--default uiInput--input']/input)[2]
+AvgBuyingPrice=(//div[@class='uiInput uiInput--default uiInput--input']/input)[3]
+ListPrice=(//div[@class='uiInput uiInput--default uiInput--input']/input)[4]
+Discount=//div[@class='uiInput uiInputPercent uiInput--default uiInput--input']/input
+Save=(//div[@class='forceModalActionContainer--footerAction forceModalActionContainer']/button)[3]
+RelatedLink=//a[@class=\"tabHeader\"][@tabindex=\"-1\"]
+VendorProd=(//div[@title='New'])[5]
+VendorName=//div[@class='inputWrapper slds-grid slds-grid_vertical-align-center slds-p-right_x-small']/div
+BuyingPrice=//*[contains(text(),'Carriage charges')]//preceding::input[@class='input uiInputSmartNumber']
+SaveVendor=//div[@class='forceModalActionContainer--footerAction forceModalActionContainer']/button[3]
+TimeBaseInventory=(//span[text()='Time Base Inventory'])[2]//following::input[1]
+TimeBaseInventory1=//label/span[text()='Time Base Inventory']/following::input[1]
+ProductPrice=(//div[text()='New'])[2]
+ProductPriceName=//label/span[text()='Product Price Name']//following::input[1]
+PPStatusClick=//a[@class='select']
+PPStatus=//div[@class='select-options']//ul[@class='scrollable']
+PPLocation=//label/span[text()='Location']//following::input[1]
+PCost=//label/span[text()='Cost']//following::input[1]
+Startdate=//label/span[text()='Start Date']//following::input[1]
+Enddate=//label/span[text()='End Date']//following::input[1]
+Save=(//button/span[text()='Save'])[2]
+ILPNew=(//div[text()='New'])[4]
+ReceivedQty=//label/span[text()='Received Quantity']//following::input[1]
+ILPSave=(//button/span[text()='Save'])[2]
+ 
+ 
+ //Purchase Order
+ 
+ PurchaseOrdertab=(//one-app-nav-bar[@class='slds-grid slds-has-flexi-truncate'])//one-app-nav-bar-item-root[6]
+ (//one-app-nav-bar[@class='slds-grid slds-has-flexi-truncate'])//one-app-nav-bar-item-root[4]
+ PONewButton=//button[@class='slds-button slds-button_neutral']
+ iframe=//iframe[@allowtransparency='true']
+ POVendor=(//div[@class='slds-form-element']/div)[2]/input
+ OrderDate=(//div[@class='slds-3-of-4'])[5]/div/input
+ ExpectedDate=(//div[@class='slds-3-of-4'])[4]/div/input
+ AddPO=//div[@id='addPOrderContent']/button
+ POProduct=//label[text()='Product']/following::input[1]
+ //(//div[@class='slds-form-element'])[3]
+ POQuantity=(//div[@class='slds-form-element slds-size_1-of-2'])[2]/input
+ ExpectedDelivery=(//div[@class='form-element uiInput uiInputDate uiInput--default uiInput--input uiInput--datetime'])[3]/input
+ Submit=//footer[@class='slds-modal__footer']/button[1]
+ FinalSave=//button[@class='slds-button slds-button--brand']
+ Approval=//a/div[text()='Submit for Approval']
+ Comments=//label/span[text()='Comments']//following::textarea
+ ApproveSubmit=//button/span[text()='Submit']
+ ApproveButton=//div[@title='Approve']
+ Approve2=//button/span[text()='Approve']
+ Edit=//div[text()='Edit']
+ POStatus=//select[@class='slds-input input uiInput uiInputText uiInput--default uiInput--input select uiInput uiInputSelect uiInput--default uiInput--select']
+ Editframe=(//iframe[@allowtransparency='true'])[1]
+ UpdateButton=//button[text()='Update']
+ 
+ 
+ //Stock Receive
+ 
+ StockReceivetab=(//one-app-nav-bar[@class='slds-grid slds-has-flexi-truncate'])//one-app-nav-bar-item-root[7]
+ SRNewButton=//div[@class='slds-grid']/div[2]//li[1]
+ SRFrame=//iframe[@allowtransparency='true']
+ SRVendor=(//div[@class='slds-form-element'])[1]/div/input
+ SRDeliveryPerson=(//div[@class='slds-form-element'])[2]/div/input
+ SRReceivingLocation=(//div[@class='slds-form-element'])[3]/div/input
+ SRReceivedDate=(//div[@class='slds-3-of-4'])[4]/div/input
+ SRAddProd=//button[@class='slds-button slds-button--neutral']
+ SRPurchaseOrder=(//div[@class='slds-form-element'])[4]/div/input
+ SRPOProduct=(//div[@class='slds-form-element'])[5]/div/input
+ SRReceivedQty=//input[@class='slds-input input uiInput uiInputNumber uiInput--default uiInput--input']
+ SRActualLocation=(//div[@class='slds-form-element'])[6]/div/input
+ SRSelect=//select[@class='slds-select select uiInput uiInputSelect uiInput--default uiInput--select']
+ SRSubmit=//button[text()='Submit']
+ SRSave=(//button[@class='slds-button slds-button--brand'])[1]
+ 
+ 
+ //Sigma order
+ 
+ SigmaOrdertab=(//one-app-nav-bar[@class='slds-grid slds-has-flexi-truncate'])//one-app-nav-bar-item-root[7]
+ SalesOrder=//div[@class='slds-button-group']/button[1]
+ SOframe=//iframe[@scrolling='yes']
+ OrdrerDate=//span[text()='Order Date:']/following::input[1]
+ Customername=//label[text()='Customer Name: ']/following::input[1]
+ BillingPerson=//span[text()='Billing person:']/following::input[1]
+ Currency=//span[text()='Exchange Currency : ']/following::input[1]
+ SOAddproduct=//button[text()='Add Order Lines']
+ SOProduct=(//div[@class='slds-form-element'])[4]//input
+ SOQty=//td[@data-label='Quantity']/input
+ SODiscount=//td[@data-label='DISCOUNT']//div[@class='slds-form-element__control slds-grow']/input
+ SOAddtoorders=(//button[@class='slds-button slds-button--neutral'])[3]
+ SONext=(//button[@class='slds-button slds-button--neutral'])[3]
+ SOClosepopup=(//button[@class='slds-button'])[1]
+ ProccedPayment=(//button[@class='slds-button slds-button--neutral slds-button slds-button--neutral uiButton--default uiButton'])[2]
+ Cash=(//label[@class='slds-size--1-of-2'])[10]/img
+ SkipPayment=//button/span[text()='Skip Payment']
+ SOSave=//div[@class='slds-card__footer']/button[2]
+ 
+ //Sigma picking(allocation in sales order)
+ 
+ SigmaOrder1=(//label[text()='Sigma Order']/following::input)[1]
+ SelectSO=//div[@class='slds-card__body']/table/thead/following::tr/td/input[1]
+ AllocateUser=//select[@class='slds-input select uiInput uiInputSelect uiInput--default uiInput--select']
+ Allocate=//button[text()='Allocate']
+ Pick=//button[text()='Pick']
+ Pick=(//button[text()='Pick'])[1]
+ StartPicking=//button[text()='Start Picking']
+ PickedQty=//div[@title='Picked Qty']/following::input[1]
+ Picked=//ul//li//a[text()='Picked']
+ PickSubmit=//button[text()='Submit']
+ Proceed=//button[text()='Proceed']
+ Package=//button[text()='Package']
+ 
+ 
+ //Sigma package
+ 
+ Packagetab=//span[text()='Packages']
+ PackageNew=//button[@name='Package']
+ Packageframe=//iframe[@allowtransparency='true']
+ PackageCustomer=//label[text()='Customer']/following::input[1]
+ PackageLocation=(//div[@class='slds-form-element'])[2]//input
+ PackagedBy=(//div[@class='slds-form-element'])[3]//input
+ PackageStatus=(//select[@class='slds-input select uiInput uiInputSelect uiInput--default uiInput--select'])[1]
+ PackageSONO=//div[@class='slds-lookup']//input
+ ProdCheckbox=//input[@class='uiInput uiInputCheckbox uiInput--default uiInput--checkbox']
+ PackageQty=//input[@class='slds-input input uiInput uiInputText uiInput--default uiInput--input']
+ Autopick=//a[text()='Autopick']
+ PackageSubmit=(//button[@class='slds-button slds-button--brand'])[1]
+ PackageSave=(//button[text()='Save'])[1]
+ 
+ //Shipments
+ 
+Shipmenttab=//a/span[text()='Shipments']
+ShipmentNew=//div[text()='New']
+ShipmentFrame=//iframe[@allowtransparency='true']
+Logisticsname=//select[@name='levels']
+DeliveryNote=(//div[@class='slds-3-of-4']/input)[1]
+Truck=(//div[@class="slds-3-of-4"]/input)[2]
+Waybill=(//div[@class="slds-3-of-4"]/input)[3]
+DeliveryPerson=(//div[@class="slds-3-of-4"]/input)[4]
+ShipmentDate=//label[text()='Shipment Date']/following::input[1]
+Status1=//select[@class='slds-input select uiInput uiInputSelect uiInput--default uiInput--select']
+ConsignmentNo=(//div[@class="slds-3-of-4"]/input)[5]
+TrackingUrl=(//div[@class="slds-3-of-4"]/input)[6]
+AddShipmentProd=//button[@id='addShipmentProducts']
+PackageNumber=//div[@class="slds-form-element__control slds-input-has-icon slds-input-has-icon--right"]//input
+ShipmentDeliveryDate=(//div[@class='form-element uiInput uiInputDate uiInput--default uiInput--input uiInput--datetime'])[2]/input
+Status2=(//select[@class='slds-input select uiInput uiInputSelect uiInput--default uiInput--select'])[2]
+ShipmentSubmit=//button[contains(text(),'Submit')]
+ 
+ 
+ 
+  //Shipments New
+ 
+ 1Shipmenttab=//a/span[text()='Shipments']
+ 1ShipmentNew=(//a[@class='forceActionLink']/div)[1]
+ 1ShipmentFrame=//iframe[@allowtransparency='true']
+ 1Logisticsname=(//div[@class='slds-form-element'])[1]//input
+ 1Truck=(//input[@class='slds-input input uiInput uiInputText uiInput--default uiInput--input'])[7]
+ 1DeliveryPerson=(//div[@class='slds-form-element'])[2]//input
+ 1ShipmentDate=//div[@class='form-element uiInput uiInputDate uiInput--default uiInput--input uiInput--datetime']/input
+ 1Status=//select[@class='slds-input select uiInput uiInputSelect uiInput--default uiInput--select']
+ 1AddShipmentProd=//button[@id='addShipmentProducts']
+ 1PackageNumber=(//div[@class='slds-form-element__control slds-input-has-icon slds-input-has-icon--right'])[3]//input
+ 1ShipmentDeliveryDate=(//div[@class='form-element uiInput uiInputDate uiInput--default uiInput--input uiInput--datetime'])[2]/input
+ 1Status1=(//select[@class='slds-input select uiInput uiInputSelect uiInput--default uiInput--select'])[2]
+ 1ShipmentSubmit=//footer[@class='slds-modal__footer']/button[2]
+ 1LastSubmit=//div[@class='slds-form-element']/button[1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

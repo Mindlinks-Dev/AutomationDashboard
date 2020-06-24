@@ -1,0 +1,22 @@
+Browser=chrome
+
+
+
+Testurl=https://login.salesforce.com/
+UN=ranjithas@mindlinkssolution.com
+PWD=Testing123@
+
+Cohbains org
+
+url=https://test.salesforce.com/
+un=michael.hodson@coh-baines.co.uk.sagedev
+pwd=Minky741
+
+
+Live3 Org
+
+URL=https://login.salesforce.com/
+UserName=dev1@stapp.com
+Password=password-02
+
+

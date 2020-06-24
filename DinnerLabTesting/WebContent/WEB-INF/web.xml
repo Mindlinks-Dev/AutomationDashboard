@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>DinnerLabAutomationDashboard</display-name>
+  <welcome-file-list>
+    <welcome-file>client.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>UserLoginAction</display-name>
+    <servlet-name>UserLoginAction</servlet-name>
+    <servlet-class>com.pack.UserLoginAction</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserLoginAction</servlet-name>
+    <url-pattern>/UserLoginAction</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <description></description>
+    <display-name>ViewSheduleReports</display-name>
+    <servlet-name>ViewSheduleReports</servlet-name>
+    <servlet-class>com.pack.ViewSheduleReports</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>ViewSheduleReports</servlet-name>
+    <url-pattern>/ViewSheduleReports</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <description></description>
+    <display-name>ListOfScripts</display-name>
+    <servlet-name>ListOfScripts</servlet-name>
+    <servlet-class>com.pack.ListOfScripts</servlet-class>
+  </servlet>
+  
+  
+  
+  
+  <servlet-mapping>
+    <servlet-name>ListOfScripts</servlet-name>
+    <url-pattern>/ListOfScripts</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  <servlet>
+    <description></description>
+    <display-name>UpLoadServlet</display-name>
+    <servlet-name>UpLoadServlet</servlet-name>
+    <servlet-class>com.pack.UpLoadServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UpLoadServlet</servlet-name>
+    <url-pattern>/UpLoadServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>DownLoadFileServlet</display-name>
+    <servlet-name>DownLoadFileServlet</servlet-name>
+    <servlet-class>com.pack.DownLoadFileServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DownLoadFileServlet</servlet-name>
+    <url-pattern>/DownLoadFileServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>TimerSchedule1</display-name>
+    <servlet-name>TimerSchedule1</servlet-name>
+    <servlet-class>com.QuartzSchedulerClasses.TimerSchedule1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>TimerSchedule1</servlet-name>
+    <url-pattern>/TimerSchedule1</url-pattern>
+  </servlet-mapping>
+  
+  
+
+  
+  
+  
+  
+  <session-config>
+    <session-timeout>1000</session-timeout>
+  </session-config>
+  
+</web-app>

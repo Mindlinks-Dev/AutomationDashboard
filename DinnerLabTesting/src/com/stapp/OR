@@ -1,0 +1,3 @@
+Username=//input[@name='username']
+Password=//input[@ type='password']
+Login=//input[@ type='submit']

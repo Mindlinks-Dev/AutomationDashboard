@@ -1,0 +1,39 @@
+Username=//input[@name='username']
+Password=//input[@ type='password']
+Login=//input[@ type='submit']
+ 
+ 
+ 
+ 
+ 
+ //Create product in lightning
+ Product name=
+ 
+ 
+
+
+
+//creating "Account"
+
+Account=(//ul[@ id="tabBar"]/li)[2]
+Newbutton=//input[@name="new"]
+RecordType=//select[@name="p3"]
+continue=//input[@value="Continue"]
+Accountname=//input[@ name="acc2"]
+save=(//input[@name="save"])[2]
+
+
+// creating " Product"
+
+Product=(//ul[@ id="tabBar"]/li)[3]
+new=//input[@name="new"]
+producttype=//select[@name="p3"]
+Productname=//input[@id="Name" ]
+Active=//input[@id="IsActive"]
+BomType=//select[@id='00N0Y00000LEDF7']
+Atribute=//select[@name="00N0Y00000KFyfT"]
+source=//select[@id="00N0Y00000KFyfi"] 
+AverageBuyingprice=//input[@name="00N0Y00000KFyfU"]
+save=(//input[@name="save"])[2]
+
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="coh baines testcases">
+
+
+
+
+<test name="Product">
+		<classes>
+			<class name="com.cohtestcases.Create_product" />
+			
+		</classes>
+	</test>
+	
+	<test name="Transaction">
+		<classes>
+			<class name="com.cohtestcases.Create_transaction" />
+			
+		</classes>
+	</test>
+	
+	<test name="StockReceiving">
+		<classes>
+			<class name="com.cohtestcases.Create_StockReceiving" />
+			
+		</classes>
+	</test>
+	
+	<test name="StappOrder">
+		<classes>
+			<class name="com.cohtestcases.Create_Stapporder" />
+			
+		</classes>
+	</test>
+	
+	<test name="Package">
+		<classes>
+			<class name="com.cohtestcases.Create_package" />
+			
+		</classes>
+	</test>
+	
+	
+	
+	
+</suite>

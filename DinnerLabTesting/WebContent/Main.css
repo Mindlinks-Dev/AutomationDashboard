@@ -1,0 +1,368 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	font-family:'Roboto', sans-serif !important;
+	padding:0;
+	margin:0;
+}
+.backbutton{
+		background: url("Images/backbutton.png") no-repeat !important;
+		background-size: 84% !important;
+		float: left !important;
+		margin-left: 40px !important;
+		border:0 !important;
+	}
+#logo
+{
+	/*background:#ccc url("Images/CRMIT.png") no-repeat;*/
+	background:#337ab7 url("Images/mindlinkslogo.png") no-repeat;
+	display:block;
+	width:100%;
+	height:70px;
+	background-size:4%;
+	background-repeat:no-repeat;
+	background-position:4.6%;
+} 
+#logout
+{
+	float: right;
+    left: -2%;
+    position: relative;
+    text-decoration: none;
+    top: 28%;
+    margin-right:.25rem;
+    margin-left:.25rem;
+}
+#logout:hover
+{
+	
+}
+.header
+{
+	box-shadow: 1px 0 3px rgba(0,0,0,.15);
+	text-align:center;
+}
+.header h3
+{
+	font-size:18px;
+	background:f4f6f9;
+	padding:1%;
+	margin:0 !important;
+}
+#container
+{
+   	margin:0 auto;
+   	width:90%;
+  
+}
+#container_logo
+{
+	width:36%;
+	margin:0 auto;
+	padding:2% 4%;
+	background:white;
+	border-radius:5px;
+	margin-top:4%;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.3);
+	border-top:2px solid #337ab7;
+	border-bottom:2px solid #337ab7;
+}
+#container_logo label{font-size:20px;}
+.logo_input
+{
+    box-shadow: none;
+    border-radius: 4px;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    color: #555555;
+    display: block;
+    font-size: 18px;
+   line-height: 1.42857;
+    padding: 6px 12px;
+    width:96%;
+}
+.logo_submit
+{
+	background:#337ab7;
+	color:white;
+	border:none;
+	width:96%;
+	 height: 42px;
+	 font-size:20px;
+}
+.logo_submit:hover
+{
+	background:#3390b7;
+}
+.Container_AutomationHome
+{
+	width:80% !important;
+	margin-top:10% !important;
+}
+#RegressionTesting
+{
+	width:26%;
+	float:left;
+	text-align:center;
+	height:30vh;
+	border:0px solid gray;
+	border-radius:6px;
+	margin-right:4%;
+	margin-left:7%;
+	background:white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+#LoadTesting
+{
+	width:26%;
+	float:left;
+	text-align:center;
+	height:30vh;
+	border:0px solid gray;
+	border-radius:6px;
+	margin-right:4%;
+	background:white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+#MobileTesting
+{
+	width:26%;
+	float:left;
+	text-align:center;	
+	height:30vh;
+	border:0px solid gray;
+	border-radius:6px;
+	background:white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+#salesforce_appexchange
+{
+	width:26%;
+	float:left;
+	text-align:center;	
+	height:30vh;
+	border:0px solid gray;
+	border-radius:6px;
+	background:white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+.testing
+{
+	width:100%;
+	height:40px;
+	display:block;
+	background:#188fff;
+	color:white;	
+	line-height:36px;
+	text-decoration:none;
+	font-size:20px;
+}
+#upload_container
+{
+	text-align: center;
+    width: 50%;
+	margin:0 auto;
+}
+.upload_form
+{
+	width:50%;
+	margin:0 auto;
+	border:0px solid gray;
+	padding:2%;
+	border-radius:6px;
+	 box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+	 background:white;
+}
+.upload_btn
+{
+	background:#188fff;
+	color:white;
+	padding:2%;
+	border:none;
+}
+#success_container
+{
+	width:24%;
+	margin:0 auto;
+	margin-top:2%;
+	text-align:center;
+}
+.success_img
+{
+	border-radius:4%;
+}
+#form
+{
+	background:white;
+	 box-shadow: 0 3px 4.7px 0.3px rgba(0, 0, 0, 0.24);
+	margin-top:2%;
+	margin-bottom:2%;
+	padding:2%;
+}
+.form
+{
+	background:white;
+	 box-shadow: 0 3px 4.7px 0.3px rgba(0, 0, 0, 0.24);
+	margin-top:4%;
+	margin-bottom:2%;
+	padding:2%;
+	width:88%;
+	margin-left:4%;
+}
+.error_container
+{
+	width:24%;
+	text-align:center;
+	
+}
+.error_img
+{
+	width:30%;
+}
+.error_h1
+{
+	color:red;
+}
+#welcome
+{
+	background:transparent;
+	padding:1%;
+	color:#337ab7;
+	font-size:16.5px;
+}
+.welcome-text{font-size:22px !important;padding-left:198px;}
+#welcome a
+{
+	border:2px solid #337ab7;
+	text-decoration:none;
+	background:#337ab7;
+	color:white;
+	border-radius:6px;
+}
+#welcome a:hover
+{
+	border:2px solid #337ab7;
+	color:#337ab7;
+	background:transparent;
+}
+
+#welcome p
+{
+	color:#333;
+	margin-top:1.2%;
+}
+table{width:100%;}
+thead{background:gray !important;color:snow;}
+tbody tr:nth-child(even) {
+   background-color: #f4f4f4 !important;
+}
+caption{font-size:26px;color:#337ab7;padding-bottom:0.5%;}
+.welcome_execution
+{
+	  color: #337ab7;
+    font-size: 18px;
+    padding: 1%;
+}
+#example{
+	border:2px solid gray;border-radius:0 0 12px 12px;box-shadow:inset 0 1px 1px rgba(0,0,0,.05);
+}
+#example th
+{
+	padding:1% 0;
+}
+#example a
+{
+	cursor:pointer;
+	color:#337ab7;
+	text-decoration:none;
+	
+}
+#example a:hover
+{
+	 background: #337ab7 none repeat scroll 0 0;
+    border-radius: 20px;
+    color: white;
+    padding:6px;
+    text-decoration: none;
+}
+#example_length
+{
+	margin-bottom:2%;
+	margin-left:2%;
+}
+#example_length select
+{
+border-radius: 6px;border:1px solid gray
+}
+#example_filter
+{
+	position:relative;
+	left:-3%;
+}
+#example_filter input
+{
+	padding:5px;
+	border:1px solid gray;
+	border-radius:4px;
+}
+#example_info
+{
+		margin-left:2%;
+		margin-top:1%;
+}
+#example_paginate
+{
+	position:relative;
+	left:-1%;
+	margin-top:1%;
+}
+.head1
+{
+	padding:1% 0.2%;
+	text-align:left;
+	background:gray;
+	color:white;
+}
+.head2
+{
+	padding:0.2% 0%;
+	text-align:left;
+	background:#ccc;
+}
+#salesappexchange
+{
+	width:100%;
+	margin:0 auto !important;
+	margin-bottom:4% !important;
+	text-align:center;
+	height:auto;
+	border:0px solid gray;
+	border-radius:6px;
+	margin-left:3%;
+	background:white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+#form_salesappexchange
+{
+	height:auto;
+}
+#salesappexchange img{
+	width:100%;
+	height:auto;
+	
+}
+.footer
+{
+	position:fixed;
+   bottom:0;
+   width:100%;
+   padding:4px;
+   background:#000;
+   text-align:center;
+   color:lightgray;
+}
+a, a:active, a:focus{
+    outline: none !important; /* Works in Firefox, Chrome, IE8 and above */
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Testcoh(failed)">
+    <classes>
+      <class name="com.src.test.java.com.cohtestcases.Create_product">
+        <methods>
+          <include name="product"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Create_product -->
+      <class name="com.src.test.java.com.cohtestcases.StockAdjustmentSerialized">
+        <methods>
+          <include name="SAfinancial"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.StockAdjustmentSerialized -->
+      <class name="com.src.test.java.com.cohtestcases.Account">
+        <methods>
+          <include name="account"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Account -->
+      <class name="com.src.test.java.com.cohtestcases.Completeintegration">
+        <methods>
+          <include name="product"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Completeintegration -->
+      <class name="com.src.test.java.com.cohtestcases.Create_transaction">
+        <methods>
+          <include name="transactionorderline"/>
+          <include name="transactionSR"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Create_transaction -->
+      <class name="com.src.test.java.com.cohtestcases.multiplestapporder">
+        <methods>
+          <include name="stapporder"/>
+          <include name="orderline"/>
+          <include name="save"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.multiplestapporder -->
+      <class name="com.src.test.java.com.cohtestcases.Create_package">
+        <methods>
+          <include name="Package"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Create_package -->
+      <class name="com.src.test.java.com.cohtestcases.Genericcode">
+        <methods>
+          <include name="accountlive3"/>
+          <include name="account"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Genericcode -->
+      <class name="com.src.test.java.com.cohtestcases.Productprice">
+        <methods>
+          <include name="productprice"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Productprice -->
+      <class name="com.src.test.java.com.cohtestcases.Create_StockReceiving">
+        <methods>
+          <include name="stockreceiving"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Create_StockReceiving -->
+      <class name="com.src.test.java.com.cohtestcases.Multipletransaction">
+        <methods>
+          <include name="transactionSR"/>
+          <include name="transactionorderline"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Multipletransaction -->
+      <class name="com.src.test.java.com.cohtestcases.Create_Account">
+        <methods>
+          <include name="setup"/>
+          <include name="product"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Create_Account -->
+      <class name="com.src.test.java.com.cohtestcases.Create_Stapporder">
+        <methods>
+          <include name="stapporderline"/>
+          <include name="stapporder1"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.Create_Stapporder -->
+      <class name="com.src.test.java.com.cohtestcases.StockAdjustmentBulkFinancial">
+        <methods>
+          <include name="SAfinancial"/>
+        </methods>
+      </class> <!-- com.src.test.java.com.cohtestcases.StockAdjustmentBulkFinancial -->
+    </classes>
+  </test> <!-- Testcoh(failed) -->
+</suite> <!-- Failed suite [Suite] -->

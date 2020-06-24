@@ -1,0 +1,29 @@
+Browser=chrome
+
+=================================standardobjects=======================================================
+
+Testurl=https://login.salesforce.com/
+UN=ranjithas@mindlinkssolution.com
+PWD=Password-01
+=================================Cohbains org=========================================================
+
+url=https://test.salesforce.com/
+un=michael.hodson@coh-baines.co.uk.sagedev
+pwd=Minky741
+
+
+===================================Live3 Org============================================================
+
+URL=https://login.salesforce.com/
+UserName=dev1@stapp.com
+Password=password-02
+
+===================================Sigma MVP Org============================================================
+URL1=https://login.salesforce.com/
+userName=sigmamvp1.0@mindlinks.com
+Pword=Password-10
+
+===================Shridhar================
+detail=https://login.salesforce.com/
+user=shridharashok@gmail.com
+pass=password-10

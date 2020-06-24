@@ -1,0 +1,1635 @@
+14Jul2015 10:42:29.730 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 10:42:29.733 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 10:42:29.734 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 10:42:40.434 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 10:42:40.434 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 10:42:44.489 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 10:42:44.489 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 10:43:14.550 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 10:47:30.940 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 10:47:30.943 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 10:47:30.943 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 10:47:40.603 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 10:47:40.603 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 10:47:43.283 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 10:47:44.302 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 10:47:44.304 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 10:49:22.509 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 10:49:22.510 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 10:49:22.510 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 10:49:27.717 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 10:50:06.701 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 10:50:06.705 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 10:50:06.705 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 10:50:16.590 [[ INFO] MemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 10:50:16.591 [[ INFO] MemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 10:50:16.758 [[ INFO] MemberSignUpPage [main]] User Type : Member
+14Jul2015 10:50:19.801 [[ INFO] MemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 10:50:19.801 [[ INFO] MemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 10:50:24.146 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 10:57:28.733 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 10:57:28.735 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 10:57:28.736 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 10:57:38.288 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 10:57:38.288 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 10:57:41.720 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 10:57:41.720 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 10:57:46.872 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 10:57:47.880 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 10:57:47.885 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 10:59:40.629 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 10:59:40.632 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 10:59:40.632 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 11:26:11.922 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 11:26:11.925 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 11:26:11.925 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 11:26:22.738 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 11:26:22.738 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 11:26:25.102 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 11:26:25.102 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 11:26:30.271 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 11:26:31.276 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 11:26:31.282 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 13:23:36.944 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 13:23:36.945 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 13:23:36.945 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 13:23:42.545 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 15:29:33.200 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 15:29:33.203 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 15:29:33.204 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 15:29:46.512 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+14Jul2015 15:29:46.513 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+14Jul2015 15:30:17.451 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 15:44:13.127 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 15:44:13.129 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 15:44:13.129 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 15:44:22.209 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+14Jul2015 15:44:22.210 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+14Jul2015 15:44:53.298 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 15:45:43.963 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 15:45:43.967 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 15:53:17.481 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 15:53:17.484 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 15:53:17.484 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 15:53:27.673 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+14Jul2015 15:53:27.674 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+14Jul2015 15:54:18.290 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+14Jul2015 15:54:18.328 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+14Jul2015 15:54:18.328 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:16:46.916 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:16:46.919 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:16:46.919 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:16:52.014 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:16:57.086 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:17:00.975 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:17:00.975 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:17:01.065 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:17:01.066 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:17:03.895 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:17:52.843 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:17:53.846 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 16:17:53.849 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:21:09.386 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:21:09.389 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:21:09.389 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:21:14.510 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:21:18.857 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:21:22.756 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:21:22.756 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:21:22.831 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:21:22.831 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:21:25.690 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:22:17.983 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:22:48.054 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 16:22:48.058 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:23:26.166 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:23:26.169 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:23:26.169 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:23:31.389 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:23:36.490 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:23:40.432 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:23:40.432 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:23:40.517 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:23:40.517 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:23:42.564 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:24:34.092 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:25:04.227 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 16:25:04.229 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:28:25.109 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:28:25.112 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:28:25.112 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:28:30.220 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:28:34.961 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:28:38.937 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:28:38.937 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:28:39.014 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:28:39.014 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:28:41.119 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:29:21.941 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:29:52.033 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 16:29:52.038 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:31:17.674 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:31:17.677 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:31:17.677 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:31:22.936 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:31:28.289 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:31:32.481 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:31:32.482 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:31:32.576 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:31:32.576 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:31:34.685 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:32:16.182 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:32:46.258 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 16:32:46.262 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:40:03.601 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:40:03.603 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:40:03.604 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:40:08.769 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:40:13.414 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:40:17.327 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:40:17.328 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:40:17.422 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:40:17.422 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:40:19.571 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:41:00.980 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:41:31.100 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 16:41:31.104 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:48:22.364 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:48:22.367 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:48:22.367 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:48:27.622 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:48:32.187 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:48:36.172 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:48:36.173 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:48:36.252 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:48:36.252 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:48:38.708 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:49:20.055 [[ INFO] DietaryRestrictionsOrAllergiesPage [main]] Your dietaries have not been restricted.
+14Jul2015 16:49:32.506 [[ INFO] PaidMemberSignUpPage [main]] Your Referral Link is : 
+14Jul2015 16:49:36.253 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+14Jul2015 16:49:36.253 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:50:06.410 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 16:50:06.412 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:50:50.440 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:50:50.443 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:50:50.443 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:50:55.682 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:51:00.081 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:51:03.987 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:51:03.987 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:51:04.034 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:51:04.035 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:51:06.536 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 16:51:47.109 [[ INFO] DietaryRestrictionsOrAllergiesPage [main]] Your dietaries have not been restricted.
+14Jul2015 16:51:59.524 [[ INFO] PaidMemberSignUpPage [main]] Your Referral Link is : 
+14Jul2015 16:52:02.964 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+14Jul2015 16:52:02.964 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 16:52:41.637 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 16:52:41.642 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 16:59:21.555 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 16:59:21.557 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 16:59:21.557 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 16:59:26.829 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 16:59:31.561 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 16:59:35.470 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 16:59:35.470 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 16:59:35.524 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 16:59:35.524 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 16:59:38.087 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 17:00:19.076 [[ INFO] DietaryRestrictionsOrAllergiesPage [main]] Your dietaries have not been restricted.
+14Jul2015 17:00:31.241 [[ INFO] PaidMemberSignUpPage [main]] Your Referral Link is : 
+14Jul2015 17:00:34.891 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+14Jul2015 17:00:34.891 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:01:13.332 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 17:01:13.336 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:05:31.741 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:05:31.744 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:05:31.744 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:05:37.167 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:05:42.251 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:05:46.342 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:05:46.343 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 17:05:46.395 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 17:05:46.395 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 17:05:48.570 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 17:06:31.227 [[ INFO] DietaryRestrictionsOrAllergiesPage [main]] Your dietaries have not been restricted.
+14Jul2015 17:06:43.625 [[ INFO] PaidMemberSignUpPage [main]] Your Referral Link is : 
+14Jul2015 17:06:47.221 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+14Jul2015 17:06:47.221 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:07:25.467 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 17:07:25.470 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:08:19.280 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:08:19.283 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:08:19.284 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:08:24.683 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:08:29.199 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:08:34.031 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:08:34.031 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 17:08:34.087 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 17:08:34.087 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 17:08:36.660 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 17:09:19.702 [[ INFO] DietaryRestrictionsOrAllergiesPage [main]] Your dietaries have not been restricted.
+14Jul2015 17:09:32.269 [[ INFO] PaidMemberSignUpPage [main]] Your Referral Link is : 
+14Jul2015 17:09:36.557 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+14Jul2015 17:09:36.557 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:13:29.579 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:13:29.582 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:13:29.583 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:13:34.853 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:13:40.149 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:13:45.210 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:13:45.210 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 17:13:45.273 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 17:13:45.274 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 17:13:47.906 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 17:14:28.685 [[ INFO] DietaryRestrictionsOrAllergiesPage [main]] Your dietaries have not been restricted.
+14Jul2015 17:14:36.939 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:14:37.951 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 17:14:37.955 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:30:01.665 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:30:01.668 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:30:01.668 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:30:06.725 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:30:11.512 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:30:14.719 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:30:14.719 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 17:30:14.795 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 17:30:14.795 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 17:30:30.606 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:30:30.608 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:30:30.609 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:30:35.807 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:30:40.118 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:30:44.050 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:30:44.051 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 17:30:44.102 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 17:30:44.102 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 17:30:46.722 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 17:31:29.445 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:31:59.559 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 17:31:59.564 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:32:39.183 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:32:39.186 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:32:39.187 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:32:54.012 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:32:54.014 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:32:54.014 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:32:59.056 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:33:03.194 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:33:07.012 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:33:07.012 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 17:33:07.061 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 17:33:07.061 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 17:33:09.165 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 17:33:50.050 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:34:20.121 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 17:34:20.125 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:36:13.974 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:36:13.976 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:36:13.977 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:36:19.367 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:36:23.802 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:36:27.770 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:36:27.770 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 17:36:57.827 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:37:57.857 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 17:37:57.860 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:39:50.976 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:39:50.979 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:39:50.979 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:39:56.011 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:40:00.758 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:40:04.774 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:40:04.774 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 17:40:34.828 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:41:35.068 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 17:41:35.070 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:42:45.442 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:42:45.445 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:42:45.445 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:42:50.862 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:42:55.875 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:42:59.890 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:42:59.890 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 17:43:29.941 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:44:43.144 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:44:43.147 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:44:43.147 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:44:48.127 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:44:52.919 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:44:57.035 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:44:57.035 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 17:45:27.102 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:46:27.439 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 17:46:27.443 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:50:30.696 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:50:30.698 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:50:30.699 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:50:35.936 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:50:41.039 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:50:44.899 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:50:44.899 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 17:51:14.955 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:51:32.572 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 17:51:32.576 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:51:54.380 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:51:54.382 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:51:54.383 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:51:59.530 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:52:03.837 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:52:07.658 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:52:07.658 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 17:52:37.714 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:53:25.359 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+14Jul2015 17:53:25.364 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:55:08.335 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:55:08.338 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:55:08.338 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:55:13.714 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:55:18.504 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:55:22.395 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:55:22.395 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+14Jul2015 17:56:10.008 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+14Jul2015 17:56:10.018 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 17:56:52.290 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 17:56:52.293 [[ INFO] BaseClass [main]] -------Closing the browser--------
+14Jul2015 17:58:09.204 [[ INFO] BaseClass [main]] -------Opening the browser--------
+14Jul2015 17:58:09.207 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+14Jul2015 17:58:09.207 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+14Jul2015 17:58:14.849 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+14Jul2015 17:58:18.933 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+14Jul2015 17:58:22.724 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+14Jul2015 17:58:22.725 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Dallas
+14Jul2015 17:58:22.777 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+14Jul2015 17:58:22.777 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+14Jul2015 17:58:24.872 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+14Jul2015 17:59:21.466 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+14Jul2015 17:59:21.467 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+14Jul2015 18:00:00.133 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+14Jul2015 18:00:00.137 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 12:06:00.035 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 12:06:00.039 [[ INFO] DriverManager [main]] Chrome browser has been selected
+15Jul2015 12:06:00.075 [[ INFO] DriverManager [main]] Chrome browser has been successfully loaded
+15Jul2015 12:06:14.591 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+15Jul2015 12:06:14.591 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+15Jul2015 12:06:14.627 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 12:06:14.662 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 12:06:14.668 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 12:07:02.562 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 12:07:02.565 [[ INFO] DriverManager [main]] Internet Explorer browser has been selected
+15Jul2015 12:07:02.574 [[ INFO] DriverManager [main]] Internet Explorer browser has been successfully loaded
+15Jul2015 12:07:11.782 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+15Jul2015 12:07:11.783 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+15Jul2015 12:07:21.600 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+15Jul2015 12:07:21.732 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+15Jul2015 12:07:21.732 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 12:07:23.066 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 12:07:23.077 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 12:11:34.696 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 12:11:34.699 [[ INFO] DriverManager [main]] Internet Explorer browser has been selected
+15Jul2015 12:11:34.707 [[ INFO] DriverManager [main]] Internet Explorer browser has been successfully loaded
+15Jul2015 12:11:41.121 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+15Jul2015 12:11:41.122 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+15Jul2015 12:11:48.085 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+15Jul2015 12:11:48.201 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+15Jul2015 12:11:48.201 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 12:11:49.953 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 12:11:49.956 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 12:20:01.700 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 12:20:01.700 [[ INFO] DriverManager [main]] Chrome browser has been selected
+15Jul2015 12:20:01.747 [[ INFO] DriverManager [main]] Chrome browser has been successfully loaded
+15Jul2015 12:20:10.634 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+15Jul2015 12:20:10.634 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+15Jul2015 12:20:14.116 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+15Jul2015 12:20:14.132 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 12:20:14.132 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 12:20:14.149 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 12:35:38.062 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 12:35:38.062 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 12:35:38.062 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 12:35:43.653 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 15:46:47.320 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 15:46:47.339 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 15:46:47.339 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 16:39:48.917 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 16:39:48.919 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 16:39:48.920 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 16:39:54.719 [[ INFO] FreeMemberSignUpPage [main]] Free membership flow
+15Jul2015 16:39:54.719 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 18:18:47.945 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 18:18:47.948 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 18:18:47.948 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 18:18:53.887 [[ INFO] FreeMemberSignUpPage [main]] Free membership flow
+15Jul2015 18:18:53.888 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 18:18:59.781 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 18:19:01.817 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+15Jul2015 18:19:01.818 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+15Jul2015 18:19:21.902 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 18:19:41.954 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 18:19:41.993 [[ INFO] FreeMemberSignUpPage [main]] Free membership flow
+15Jul2015 18:19:41.993 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 18:19:43.738 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 18:19:47.585 [[ INFO] FreeMemberSignUpPage [main]] Your Dinner Lab Account is created successfully.
+15Jul2015 18:19:47.585 [[ INFO] FreeMemberSignUpPage [main]] Your Membership City : Chicago
+15Jul2015 18:20:34.846 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+15Jul2015 18:20:34.859 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 18:28:13.541 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 18:28:13.545 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 18:28:13.545 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:20:37.813 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:20:37.816 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:20:37.816 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:20:43.652 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:20:48.314 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 19:21:40.107 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+15Jul2015 19:21:40.107 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+15Jul2015 19:21:40.107 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:22:22.491 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+15Jul2015 19:22:22.519 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 19:22:22.582 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 19:22:22.584 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:22:22.584 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:22:22.596 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:22:22.596 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:22:22.600 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 19:38:36.750 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:38:36.752 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:38:36.752 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:38:42.312 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:38:47.305 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 19:38:55.584 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:39:00.627 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:39:00.666 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 19:39:00.716 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 19:39:00.717 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:39:00.717 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:39:00.759 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:39:00.759 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:39:00.762 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 19:42:37.081 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:42:37.084 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:42:37.084 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:42:43.333 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:42:50.392 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 19:43:42.392 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+15Jul2015 19:43:42.392 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+15Jul2015 19:43:42.392 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:44:24.646 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+15Jul2015 19:44:24.681 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 19:44:24.731 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 19:44:24.733 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:44:24.733 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:44:24.753 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:44:24.753 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:44:24.755 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 19:46:31.103 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:46:31.105 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:46:31.105 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:46:36.981 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:47:02.750 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:47:02.752 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:47:02.752 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:47:08.265 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:47:12.741 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 19:48:04.815 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+15Jul2015 19:48:04.815 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+15Jul2015 19:48:04.815 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:48:47.110 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+15Jul2015 19:48:47.467 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 19:48:47.516 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 19:48:47.518 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:48:47.518 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:48:47.542 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:48:47.542 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:48:47.545 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 19:51:06.183 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:51:06.186 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:51:06.186 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:51:12.228 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:51:17.237 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 19:51:25.544 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:51:30.640 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 19:51:30.945 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 19:51:56.485 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:51:56.487 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:51:56.488 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:52:02.045 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:52:06.577 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 19:52:59.721 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+15Jul2015 19:52:59.722 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+15Jul2015 19:52:59.722 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:53:42.166 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+15Jul2015 19:53:42.570 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 19:54:24.758 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 19:54:24.761 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 19:54:24.761 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 19:54:30.261 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 19:54:34.669 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 19:54:40.571 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 19:54:40.572 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 19:54:42.753 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+15Jul2015 19:55:35.709 [[ INFO] PaidMemberSignUpPage [main]] Your Referral Link is : 
+15Jul2015 19:55:39.446 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+15Jul2015 19:55:39.446 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+15Jul2015 19:55:39.446 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 19:56:17.795 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+15Jul2015 19:56:17.798 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:03:21.471 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:03:21.474 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:03:21.475 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:03:27.091 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 20:03:27.097 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:03:27.099 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:03:27.143 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:03:31.693 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:03:36.011 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 20:03:36.011 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 20:03:38.451 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+15Jul2015 20:03:43.547 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:03:56.005 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:03:56.408 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:03:56.409 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:03:56.411 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:05:20.882 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:05:20.885 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:05:20.885 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:05:26.283 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 20:05:26.289 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:05:26.291 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:05:26.346 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:05:31.513 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:05:34.958 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 20:05:34.959 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 20:05:40.029 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 20:05:45.129 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:05:50.200 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:05:50.466 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:05:50.466 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:05:50.468 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:07:28.613 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:07:28.616 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:07:28.616 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:07:34.146 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 20:07:34.152 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:07:34.154 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:07:34.206 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:07:39.256 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:07:42.620 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 20:07:42.621 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 20:07:47.692 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 20:07:52.778 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:07:57.853 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:07:58.147 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:07:58.147 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:07:58.149 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:10:38.870 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:10:38.873 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:10:38.873 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:10:44.535 [[ INFO] MemberLoginLogoutPage [pool-1-thread-3]] Logout processing
+15Jul2015 20:10:44.537 [[ INFO] MemberLoginLogoutPage [pool-1-thread-3]] Unsuccessfully logged out from Application
+15Jul2015 20:10:44.562 [[ INFO] FreeMemberSignUpPage [pool-1-thread-1]] SignUp unsuccessful.
+15Jul2015 20:10:44.569 [[ INFO] MemberLoginLogoutPage [pool-1-thread-1]] Logout processing
+15Jul2015 20:10:44.574 [[ INFO] MemberLoginLogoutPage [pool-1-thread-1]] Unsuccessfully logged out from Application
+15Jul2015 20:10:44.576 [[ INFO] FreeMemberSignUpPage [pool-1-thread-2]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:10:49.401 [[ INFO] FreeMemberSignUpPage [pool-1-thread-2]] Creating Dinner Lab Account.
+15Jul2015 20:10:53.760 [[ INFO] AddNewCreditCardInfoPage [pool-1-thread-2]] Navigating to Payment Page
+15Jul2015 20:10:53.761 [[ INFO] AddNewCreditCardInfoPage [pool-1-thread-2]] Entering Credit Card information.
+15Jul2015 20:10:56.350 [[ INFO] AddNewCreditCardInfoPage [pool-1-thread-2]] Your new Credit Card information has been added successfully.
+15Jul2015 20:11:01.448 [[ INFO] MemberLoginLogoutPage [pool-1-thread-2]] Logout processing
+15Jul2015 20:11:14.189 [[ INFO] MemberLoginLogoutPage [pool-1-thread-2]] Unsuccessfully logged out from Application
+15Jul2015 20:11:14.555 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:15:33.416 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:15:33.419 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:15:33.419 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:15:39.031 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 20:15:39.041 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:15:39.043 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:15:39.087 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:15:43.333 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:15:47.386 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 20:15:47.386 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 20:15:49.786 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+15Jul2015 20:15:54.883 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:16:05.344 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:16:05.758 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:16:05.758 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:16:05.761 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:32:50.376 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:32:50.379 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:32:50.379 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:32:55.922 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:33:00.869 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:33:53.099 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+15Jul2015 20:33:53.099 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+15Jul2015 20:33:53.099 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:34:35.335 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+15Jul2015 20:34:35.667 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 20:34:35.719 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 20:34:35.720 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:34:35.720 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:34:35.726 [[ INFO] PaidMemberSignUpPage [main]] Error in sign up
+15Jul2015 20:34:35.742 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:34:35.742 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:34:35.744 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:36:32.536 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:36:32.539 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:36:32.539 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:36:38.049 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:36:42.313 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:37:34.330 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+15Jul2015 20:37:34.330 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+15Jul2015 20:37:34.331 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:38:16.593 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+15Jul2015 20:38:16.618 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+15Jul2015 20:38:16.650 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+15Jul2015 20:38:16.651 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:38:16.651 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:38:16.665 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:38:16.665 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:38:16.667 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:40:01.977 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:40:01.982 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:40:01.982 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:40:08.120 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:40:13.266 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:40:17.388 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 20:40:17.388 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 20:40:19.657 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+15Jul2015 20:40:24.747 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:40:35.461 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:40:35.479 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:42:26.927 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:42:26.929 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:42:26.930 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:42:32.676 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:42:36.749 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:42:41.636 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 20:42:41.636 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 20:42:44.012 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+15Jul2015 20:42:49.124 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:43:01.122 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:43:01.132 [[ INFO] BaseClass [main]] -------Closing the browser--------
+15Jul2015 20:44:42.107 [[ INFO] BaseClass [main]] -------Opening the browser--------
+15Jul2015 20:44:42.110 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+15Jul2015 20:44:42.111 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+15Jul2015 20:44:47.561 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+15Jul2015 20:44:52.205 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+15Jul2015 20:44:56.107 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+15Jul2015 20:44:56.107 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+15Jul2015 20:44:58.466 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+15Jul2015 20:45:08.578 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+15Jul2015 20:45:22.761 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+15Jul2015 20:45:22.771 [[ INFO] BaseClass [main]] -------Closing the browser--------
+16Jul2015 09:12:20.516 [[ INFO] BaseClass [main]] -------Opening the browser--------
+16Jul2015 09:12:20.539 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+16Jul2015 09:12:20.540 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+16Jul2015 09:12:30.233 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+16Jul2015 09:12:30.233 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+16Jul2015 09:13:20.556 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+16Jul2015 09:13:20.603 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+16Jul2015 09:13:20.603 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:14:02.885 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+16Jul2015 09:14:03.010 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 09:14:07.059 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 09:14:58.669 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 09:14:58.669 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+16Jul2015 09:14:58.670 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:15:40.970 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+16Jul2015 09:15:40.974 [[ INFO] BaseClass [main]] -------Closing the browser--------
+16Jul2015 09:19:10.250 [[ INFO] BaseClass [main]] -------Opening the browser--------
+16Jul2015 09:19:10.251 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+16Jul2015 09:19:10.252 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+16Jul2015 09:19:14.707 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 09:19:19.376 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 09:20:11.731 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 09:20:11.732 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+16Jul2015 09:20:11.732 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:20:54.010 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+16Jul2015 09:20:54.110 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 09:20:58.106 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 09:21:02.322 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+16Jul2015 09:21:02.322 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+16Jul2015 09:21:04.624 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+16Jul2015 09:22:02.355 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 09:22:02.356 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+16Jul2015 09:22:02.356 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:22:07.592 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+16Jul2015 09:22:12.317 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+16Jul2015 09:22:12.317 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+16Jul2015 09:23:01.688 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+16Jul2015 09:23:01.726 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+16Jul2015 09:23:01.726 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:23:43.995 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+16Jul2015 09:23:43.997 [[ INFO] BaseClass [main]] -------Closing the browser--------
+16Jul2015 09:27:18.451 [[ INFO] BaseClass [main]] -------Opening the browser--------
+16Jul2015 09:27:18.452 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+16Jul2015 09:27:18.453 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+16Jul2015 09:27:23.081 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 09:27:27.707 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 09:28:19.354 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 09:28:19.355 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+16Jul2015 09:28:19.355 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:29:01.711 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+16Jul2015 09:29:01.818 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 09:29:06.520 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 09:29:11.098 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+16Jul2015 09:29:11.098 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+16Jul2015 09:29:13.515 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+16Jul2015 09:30:10.402 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 09:30:10.403 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+16Jul2015 09:30:10.403 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:30:49.278 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+16Jul2015 09:30:53.441 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+16Jul2015 09:30:53.441 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+16Jul2015 09:31:43.068 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+16Jul2015 09:31:43.099 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+16Jul2015 09:31:43.100 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 09:32:25.343 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+16Jul2015 09:32:25.345 [[ INFO] BaseClass [main]] -------Closing the browser--------
+16Jul2015 17:37:38.842 [[ INFO] BaseClass [main]] -------Opening the browser--------
+16Jul2015 17:37:38.843 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+16Jul2015 17:37:38.844 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+16Jul2015 17:37:43.671 [[ INFO] BaseClass [main]] -------Closing the browser--------
+16Jul2015 21:08:30.865 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 21:08:35.513 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 21:08:48.551 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 21:08:48.552 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+16Jul2015 21:08:48.552 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 21:08:48.586 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+16Jul2015 21:09:54.340 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 21:09:58.481 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 21:10:14.963 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 21:10:14.963 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+16Jul2015 21:10:14.963 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 21:10:14.987 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+16Jul2015 21:19:00.744 [[ INFO] BaseClass [main]] -------Opening the browser--------
+16Jul2015 21:19:00.746 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+16Jul2015 21:19:00.747 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+16Jul2015 21:19:04.892 [[ INFO] BaseClass [main]] -------Closing the browser--------
+16Jul2015 21:20:37.155 [[ INFO] BaseClass [main]] -------Opening the browser--------
+16Jul2015 21:20:37.157 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+16Jul2015 21:20:37.157 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+16Jul2015 21:20:46.904 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+16Jul2015 21:20:46.904 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+16Jul2015 21:21:40.210 [[ INFO] BaseClass [main]] -------Opening the browser--------
+16Jul2015 21:21:40.211 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+16Jul2015 21:21:40.212 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+16Jul2015 21:21:44.458 [[ INFO] BaseClass [main]] -------Closing the browser--------
+16Jul2015 21:27:39.343 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 21:27:44.110 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 21:28:00.424 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 21:28:00.425 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+16Jul2015 21:28:00.425 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 21:28:00.448 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+16Jul2015 21:28:19.374 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 21:28:24.187 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 21:28:28.327 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+16Jul2015 21:28:28.327 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+16Jul2015 21:28:30.607 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+16Jul2015 21:28:40.687 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+16Jul2015 21:28:40.688 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 21:36:49.586 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+16Jul2015 21:36:54.962 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+16Jul2015 21:37:48.437 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+16Jul2015 21:37:48.437 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+16Jul2015 21:37:48.437 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+16Jul2015 21:37:53.502 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+17Jul2015 10:20:46.532 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+17Jul2015 10:20:46.558 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+17Jul2015 10:21:37.062 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+17Jul2015 10:21:37.100 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+17Jul2015 10:21:37.100 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 10:22:19.372 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+17Jul2015 10:23:12.328 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 10:23:16.819 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 10:23:21.090 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 10:23:21.090 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 10:23:23.560 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+17Jul2015 10:23:33.844 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+17Jul2015 10:23:33.845 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 10:23:46.751 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+17Jul2015 10:28:14.214 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 10:28:18.722 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 10:28:22.835 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 10:28:22.835 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 10:28:25.033 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+17Jul2015 10:29:22.595 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+17Jul2015 10:29:22.595 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+17Jul2015 10:29:22.595 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 10:30:01.581 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+17Jul2015 10:31:58.516 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 10:32:02.897 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 10:32:06.980 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 10:32:06.980 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 10:32:08.949 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+17Jul2015 10:33:05.731 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+17Jul2015 10:33:05.731 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+17Jul2015 10:33:05.731 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 10:33:44.727 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+17Jul2015 10:41:52.001 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+17Jul2015 10:41:52.003 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+17Jul2015 10:42:42.003 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+17Jul2015 10:42:42.066 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+17Jul2015 10:42:42.067 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 10:43:24.309 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+17Jul2015 12:33:39.545 [[ INFO] BaseClass [main]] -------Opening the browser--------
+17Jul2015 12:33:39.547 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+17Jul2015 12:33:39.548 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+17Jul2015 12:33:50.437 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+17Jul2015 12:33:50.437 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+17Jul2015 12:34:40.775 [[ INFO] MemberLoginLogoutPage [main]] Waiting for signin process to complete...
+17Jul2015 12:34:40.818 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+17Jul2015 12:34:40.819 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 12:35:23.113 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+17Jul2015 12:35:23.182 [[ INFO] BaseClass [main]] -------Closing the browser--------
+17Jul2015 13:03:32.876 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+17Jul2015 13:03:32.880 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+17Jul2015 13:03:32.880 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+17Jul2015 13:43:57.470 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+17Jul2015 13:43:57.474 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+17Jul2015 13:43:57.474 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+17Jul2015 13:44:03.148 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 13:44:07.778 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 13:44:11.868 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 13:44:11.869 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 13:44:14.145 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+17Jul2015 13:44:19.238 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+17Jul2015 13:44:19.239 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 13:44:30.165 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+17Jul2015 13:44:30.198 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+17Jul2015 13:45:06.020 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+17Jul2015 13:45:06.023 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+17Jul2015 13:45:06.024 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+17Jul2015 13:45:11.508 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 13:45:16.057 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 13:45:19.321 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 13:45:19.321 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 13:45:42.829 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+17Jul2015 13:45:42.833 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+17Jul2015 13:45:42.833 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+17Jul2015 13:45:48.221 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 13:45:52.522 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 13:45:56.574 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 13:45:56.574 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 13:45:59.202 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+17Jul2015 13:46:04.324 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+17Jul2015 13:46:04.324 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 13:46:14.910 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+17Jul2015 13:46:14.930 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+17Jul2015 13:47:17.567 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+17Jul2015 13:47:17.571 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+17Jul2015 13:47:17.571 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+17Jul2015 13:47:23.031 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 13:47:27.174 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 13:47:31.175 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 13:47:31.175 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 13:47:33.890 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+17Jul2015 13:47:39.009 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+17Jul2015 13:47:39.009 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 13:47:49.918 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+17Jul2015 13:47:49.937 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+17Jul2015 15:06:53.505 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+17Jul2015 15:06:53.510 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+17Jul2015 15:06:53.511 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+17Jul2015 15:06:59.063 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+17Jul2015 15:07:03.980 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+17Jul2015 15:07:08.079 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+17Jul2015 15:07:08.079 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+17Jul2015 15:07:10.343 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+17Jul2015 15:08:07.689 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+17Jul2015 15:08:07.689 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+17Jul2015 15:08:07.690 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+17Jul2015 15:08:46.711 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+17Jul2015 15:08:46.712 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+18Jul2015 15:09:19.662 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+18Jul2015 15:09:19.662 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+18Jul2015 15:09:19.662 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+18Jul2015 15:09:25.093 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+18Jul2015 15:10:15.389 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+18Jul2015 15:10:21.302 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+18Jul2015 15:10:21.302 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+18Jul2015 15:10:23.222 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+18Jul2015 15:10:33.332 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+18Jul2015 15:10:33.332 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+18Jul2015 15:11:14.915 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+18Jul2015 15:11:14.915 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+18Jul2015 15:12:16.163 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+18Jul2015 15:12:16.163 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+18Jul2015 15:12:16.163 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+18Jul2015 15:12:21.328 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+18Jul2015 15:13:08.613 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+18Jul2015 15:13:13.637 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+18Jul2015 15:13:13.637 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+18Jul2015 15:13:15.604 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+18Jul2015 15:13:35.729 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+18Jul2015 15:13:35.729 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+18Jul2015 15:14:21.048 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessfully logged out from Application
+18Jul2015 15:14:21.048 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+18Jul2015 16:10:58.976 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+18Jul2015 16:10:58.980 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+18Jul2015 16:10:58.980 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+18Jul2015 16:11:04.094 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+18Jul2015 16:11:52.243 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+18Jul2015 16:11:58.229 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+18Jul2015 16:11:58.229 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+18Jul2015 16:12:00.256 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+18Jul2015 16:13:33.410 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+18Jul2015 16:13:33.410 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+18Jul2015 16:13:33.410 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+18Jul2015 16:14:08.743 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+18Jul2015 16:14:08.743 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+18Jul2015 17:12:15.941 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+18Jul2015 17:12:15.945 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+18Jul2015 17:12:15.945 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+18Jul2015 17:12:21.139 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+18Jul2015 17:13:19.655 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+18Jul2015 17:13:34.507 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+18Jul2015 17:13:34.508 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+18Jul2015 17:13:36.477 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+18Jul2015 17:14:58.085 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+18Jul2015 17:14:58.085 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+18Jul2015 17:14:58.086 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+18Jul2015 17:15:33.229 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+18Jul2015 17:15:33.229 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:09:12.986 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:09:12.990 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:09:12.990 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:09:18.474 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:09:23.718 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:09:29.020 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:09:29.057 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:09:33.615 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:09:38.447 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:09:38.457 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:11:38.023 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:11:38.026 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:11:38.027 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:11:43.283 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:11:48.529 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:11:53.693 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:11:53.742 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:11:54.608 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:11:59.556 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:11:59.578 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:11:59.793 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:11:59.793 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:11:59.794 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:12:03.967 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:12:08.910 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:12:11.856 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:12:11.857 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:12:13.955 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+20Jul2015 13:12:24.031 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:12:24.075 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:12:25.494 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:12:28.239 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:12:28.239 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:12:30.307 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+20Jul2015 13:12:40.445 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:12:40.454 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:12:40.477 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 13:12:40.477 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:12:40.477 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:12:50.335 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:12:50.336 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:12:53.902 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:12:56.000 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+20Jul2015 13:12:57.697 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:12:57.697 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:13:48.788 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:13:48.823 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+20Jul2015 13:13:48.832 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 13:14:31.081 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 13:14:31.089 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 13:28:17.194 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:28:17.197 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:28:17.197 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:28:22.388 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:28:27.214 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:28:32.501 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:28:32.527 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:28:34.552 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:28:39.428 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:28:39.435 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:28:39.729 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:28:39.730 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:28:39.730 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:28:43.776 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:28:48.299 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:28:51.409 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:28:51.409 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:28:53.454 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+20Jul2015 13:29:03.527 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:29:03.558 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:29:04.975 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:29:07.926 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:29:07.927 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:29:09.948 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+20Jul2015 13:29:19.982 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:29:19.986 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:29:19.994 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 13:29:19.994 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:29:19.994 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:29:28.334 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:29:28.334 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:29:31.289 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:29:33.334 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+20Jul2015 13:29:35.002 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:29:35.002 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:30:25.428 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:30:25.475 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+20Jul2015 13:30:25.477 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 13:31:07.712 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 13:31:07.715 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 13:32:59.471 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:32:59.474 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:32:59.474 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:33:05.027 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:33:09.875 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:33:10.282 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+20Jul2015 13:33:11.383 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+20Jul2015 13:33:11.391 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:34:41.643 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:34:41.646 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:34:41.646 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:34:46.785 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:34:51.870 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:34:56.006 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:34:56.051 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:34:57.090 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:35:47.814 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+20Jul2015 13:35:47.814 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+20Jul2015 13:35:47.815 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 13:36:30.137 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 13:36:30.164 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:36:30.472 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:36:30.472 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:36:30.472 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:36:34.923 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:36:40.211 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:36:42.166 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:36:42.167 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:36:44.245 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+20Jul2015 13:36:54.329 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:36:54.367 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:36:56.046 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:36:59.855 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:36:59.855 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:37:01.975 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+20Jul2015 13:37:12.085 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:37:12.091 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:37:12.101 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 13:37:12.101 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:37:12.101 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:37:21.659 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:37:21.660 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:37:24.831 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:37:26.867 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+20Jul2015 13:37:28.761 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:37:28.761 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:38:19.674 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:38:19.721 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+20Jul2015 13:38:19.726 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 13:39:01.977 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 13:39:01.983 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 13:49:45.242 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:49:45.247 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:49:45.247 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:49:50.508 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:49:55.930 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:49:59.977 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:50:00.010 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:50:01.110 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:50:52.431 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+20Jul2015 13:50:52.431 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+20Jul2015 13:50:52.431 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 13:51:34.718 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 13:51:34.728 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:54:25.764 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:54:25.767 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:54:25.767 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:54:31.090 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:54:35.633 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:54:39.640 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:54:39.669 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:54:40.779 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:55:32.513 [[ INFO] FreeMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+20Jul2015 13:55:32.513 [[ INFO] FreeMemberSignUpPage [main]] You are Free Member of Dinner Lab.Thank you.
+20Jul2015 13:55:32.514 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 13:56:14.793 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 13:56:14.817 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:56:15.132 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 13:56:15.132 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:56:15.132 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:56:19.359 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:56:24.075 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:56:25.894 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:56:25.894 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:56:27.957 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+20Jul2015 13:56:38.093 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+20Jul2015 13:56:38.120 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 13:56:39.716 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 13:56:43.373 [[ INFO] AddNewCreditCardInfoPage [main]] Navigating to Payment Page
+20Jul2015 13:56:43.374 [[ INFO] AddNewCreditCardInfoPage [main]] Entering Credit Card information.
+20Jul2015 13:56:45.378 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has been added successfully.
+20Jul2015 13:57:41.780 [[ INFO] PaidMemberSignUpPage [main]] Dinner Lab Account is created successfully.
+20Jul2015 13:57:41.780 [[ INFO] PaidMemberSignUpPage [main]] You are Paid Member of Dinner Lab.Thank you.
+20Jul2015 13:57:41.784 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 13:58:20.705 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 13:58:20.707 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 13:58:21.007 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 13:58:21.007 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 13:58:21.007 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 13:58:29.753 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:58:29.753 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:58:32.793 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:58:34.916 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+20Jul2015 13:58:36.578 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 13:58:36.578 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 13:59:27.203 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 13:59:27.243 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+20Jul2015 13:59:27.249 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 14:00:09.507 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 14:00:09.510 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 15:53:43.810 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 15:53:43.825 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 15:53:43.825 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 15:53:49.203 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 15:53:56.564 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 15:54:01.802 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 15:54:01.814 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 15:54:02.009 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 15:54:02.009 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 15:54:02.009 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 15:54:12.659 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 15:54:12.659 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 15:54:16.036 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 15:54:17.077 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+20Jul2015 15:54:17.097 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 15:54:47.313 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 15:54:47.317 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 15:54:47.317 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 15:54:52.740 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 15:54:59.126 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 15:55:04.424 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 15:55:04.458 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 15:55:04.692 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 15:55:04.693 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 15:55:04.693 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 15:55:14.055 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 15:55:14.055 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 15:55:17.367 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 15:55:18.399 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+20Jul2015 15:55:18.421 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 16:32:03.911 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 16:32:03.914 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 16:32:03.915 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 16:32:08.796 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 16:32:08.797 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 16:32:08.797 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 16:38:16.507 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+20Jul2015 16:38:16.511 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 16:38:16.511 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 16:38:21.552 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+20Jul2015 16:38:26.900 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+20Jul2015 16:38:35.315 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+20Jul2015 16:38:35.407 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+20Jul2015 16:38:35.666 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 16:38:35.666 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 16:38:35.666 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 16:38:44.866 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 16:38:44.867 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 16:38:48.369 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 18:45:55.455 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 18:45:55.455 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 18:45:55.455 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 18:46:04.662 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+20Jul2015 18:46:04.725 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 18:46:35.101 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 18:46:35.101 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 18:46:35.101 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 18:46:46.445 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 18:46:46.445 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 18:47:38.122 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 18:47:38.170 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+20Jul2015 18:47:38.217 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 18:48:20.587 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 18:48:20.587 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+20Jul2015 18:55:30.211 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+20Jul2015 18:55:30.211 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+20Jul2015 18:55:30.211 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+20Jul2015 18:55:40.182 [[ INFO] MemberLoginLogoutPage [main]] ********************************************
+20Jul2015 18:55:40.182 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+20Jul2015 18:56:31.725 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+20Jul2015 18:56:31.758 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+20Jul2015 18:56:31.836 [[ INFO] MemberLoginLogoutPage [main]] Logout processing
+20Jul2015 18:57:14.081 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged out from Application
+20Jul2015 18:57:14.081 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+24Jul2015 16:51:49.504 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:51:49.509 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:51:49.509 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+24Jul2015 16:52:27.670 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:52:27.676 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:52:27.676 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+24Jul2015 16:52:38.790 [[ INFO] MemberLoginLogoutPage [main]] navigating to https:\dev1.dinnerlab.com\login\?verify=boop\
+24Jul2015 16:52:39.402 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+24Jul2015 16:52:39.495 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+24Jul2015 16:54:01.185 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:54:01.189 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:54:01.190 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+24Jul2015 16:55:33.856 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:55:33.861 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:55:33.861 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+24Jul2015 16:55:46.310 [[ INFO] MemberLoginLogoutPage [main]] navigating to https:\dev1.dinnerlab.com\login\?verify=boop\
+24Jul2015 16:55:46.507 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+24Jul2015 16:55:46.609 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+24Jul2015 16:56:23.907 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:56:23.910 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:56:23.910 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+24Jul2015 16:57:07.079 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:57:07.087 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:57:07.088 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+24Jul2015 16:57:38.907 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:57:38.915 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:57:38.916 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+24Jul2015 16:58:08.945 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+24Jul2015 16:58:08.949 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+24Jul2015 16:58:08.949 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+28Jul2015 09:41:58.126 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+28Jul2015 09:41:58.126 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+28Jul2015 09:41:58.126 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+28Jul2015 09:42:04.163 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 09:42:11.510 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+28Jul2015 09:42:11.978 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+28Jul2015 09:42:12.087 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+28Jul2015 10:54:40.156 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+28Jul2015 10:54:40.156 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+28Jul2015 10:54:40.156 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+28Jul2015 10:54:47.036 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 10:54:54.446 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+28Jul2015 10:54:54.664 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+28Jul2015 10:54:54.758 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+28Jul2015 10:56:05.081 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+28Jul2015 10:56:05.081 [[ INFO] DriverManager [main]] Chrome browser has been selected
+28Jul2015 10:56:05.190 [[ INFO] DriverManager [main]] Chrome browser has been successfully loaded
+28Jul2015 10:56:18.563 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 10:56:19.865 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+28Jul2015 10:56:21.238 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+28Jul2015 10:56:21.324 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+28Jul2015 11:01:58.072 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+28Jul2015 11:01:58.072 [[ INFO] DriverManager [main]] Chrome browser has been selected
+28Jul2015 11:01:58.181 [[ INFO] DriverManager [main]] Chrome browser has been successfully loaded
+28Jul2015 11:02:08.603 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 11:02:08.633 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+28Jul2015 11:02:08.719 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+28Jul2015 11:03:05.104 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser--------
+28Jul2015 11:03:05.104 [[ INFO] DriverManager [main]] Chrome browser has been selected
+28Jul2015 11:03:05.151 [[ INFO] DriverManager [main]] Chrome browser has been successfully loaded
+28Jul2015 11:03:10.782 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 11:03:11.438 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+28Jul2015 11:03:11.516 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+28Jul2015 12:04:51.039 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 126--------
+28Jul2015 12:04:51.039 [[ INFO] MemberLoginLogoutTest [main]] -------After loading DrivingManager obj--------
+28Jul2015 12:04:51.039 [[ INFO] DriverManager [main]] Chrome browser has been selected
+28Jul2015 12:04:51.101 [[ INFO] DriverManager [main]] Chrome browser has been successfully loaded
+28Jul2015 12:04:58.828 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 12:04:59.876 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+28Jul2015 12:05:05.177 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+28Jul2015 12:05:05.274 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+28Jul2015 14:00:35.997 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:00:35.997 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:00:35.997 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:00:55.652 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:00:55.652 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:00:55.652 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:02:10.968 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:02:10.968 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:02:10.968 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:03:05.816 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:03:05.816 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:03:05.816 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:03:32.320 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:03:32.320 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:03:32.320 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:05:05.498 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:05:05.498 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:05:05.498 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:05:43.951 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:05:43.951 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:05:43.951 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:06:48.908 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:06:48.908 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:06:48.908 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:06:53.120 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+28Jul2015 14:06:55.507 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 14:07:02.465 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+28Jul2015 14:07:02.745 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+28Jul2015 14:07:02.839 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+28Jul2015 14:13:55.156 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+28Jul2015 14:13:55.156 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+28Jul2015 14:13:55.156 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+28Jul2015 14:13:59.258 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+28Jul2015 14:14:01.318 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+28Jul2015 14:14:07.589 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+28Jul2015 14:14:07.698 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+28Jul2015 14:14:07.776 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:13:31.289 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:13:31.304 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:13:31.304 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:13:35.407 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:13:35.423 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:13:46.670 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:13:46.670 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:13:46.670 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:13:50.024 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:13:50.024 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:16:24.524 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:16:24.524 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:16:24.524 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:16:27.987 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:16:27.987 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:23:38.836 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:23:38.836 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:23:38.836 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:23:42.128 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:23:42.128 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:24:47.881 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:24:47.881 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:24:47.881 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:24:51.172 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:24:51.172 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:26:41.384 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:26:41.384 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:26:41.384 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:26:44.629 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:26:44.629 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:27:29.697 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:27:29.697 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:27:29.697 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:27:32.941 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:27:35.094 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+29Jul2015 04:27:42.411 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+29Jul2015 04:27:42.691 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+29Jul2015 04:27:42.801 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:28:38.476 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:28:38.476 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:28:38.476 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:28:41.799 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:28:43.780 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+29Jul2015 04:28:53.155 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+29Jul2015 04:28:53.389 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+29Jul2015 04:28:53.483 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:32:37.199 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:32:37.199 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:32:37.199 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:32:41.161 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:32:43.735 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+29Jul2015 04:32:49.460 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+29Jul2015 04:32:49.803 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+29Jul2015 04:32:49.913 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:38:58.956 [[ INFO] FreeMemberSignUpTest [main]] -------Opening the browser--------
+29Jul2015 04:38:58.956 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+29Jul2015 04:38:58.956 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:39:07.645 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+29Jul2015 04:39:08.456 [[ INFO] FreeMemberSignUpPage [main]] Creating Dinner Lab Account.
+29Jul2015 04:39:08.940 [[ INFO] RetryExec [Forwarding getElementAttribute on session 94975e2d-feec-4f6a-a938-aa9b7c1232c3 to remote]] I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+29Jul2015 04:39:08.940 [[ INFO] RetryExec [Forwarding getElementAttribute on session 94975e2d-feec-4f6a-a938-aa9b7c1232c3 to remote]] Retrying request to {}->http://127.0.0.1:7055
+29Jul2015 04:39:09.954 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+29Jul2015 04:39:10.952 [[ INFO] FreeMemberSignUpPage [main]] Account is not created.
+29Jul2015 04:39:11.030 [[ INFO] FreeMemberSignUpTest [main]] -------Closing the browser--------
+29Jul2015 04:39:12.075 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:39:12.075 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:39:12.075 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:39:14.431 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:39:16.599 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+29Jul2015 04:39:21.731 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+29Jul2015 04:39:21.856 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+29Jul2015 04:39:21.887 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:39:21.981 [[ INFO] AddNewCreditCardInfoTest [main]] -------Opening the browser--------
+29Jul2015 04:39:21.981 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+29Jul2015 04:39:21.981 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:39:26.973 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+29Jul2015 04:39:30.545 [[ INFO] MemberLoginLogoutPage [main]] Unsuccessful Logged into an application
+29Jul2015 04:39:30.545 [[ INFO] AddNewCreditCardInfoTest [main]] -------Closing the browser--------
+29Jul2015 04:39:31.544 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+29Jul2015 04:39:31.544 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+29Jul2015 04:39:31.544 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:39:35.397 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://dev1.dinnerlab.com/signup/?verify=boop
+29Jul2015 04:39:39.312 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+29Jul2015 04:39:40.373 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+29Jul2015 04:39:41.403 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+29Jul2015 04:39:42.417 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+29Jul2015 04:39:43.477 [[ INFO] AddNewCreditCardInfoPage [main]] Your new Credit Card information has not added
+29Jul2015 04:39:44.491 [[ INFO] PaidMemberSignUpPage [main]] Account is not created.
+29Jul2015 04:39:44.491 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+29Jul2015 04:42:17.369 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:42:17.369 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:42:17.369 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:42:20.723 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:42:22.766 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+29Jul2015 04:42:28.195 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+29Jul2015 04:42:28.616 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+29Jul2015 04:42:28.710 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 04:55:22.722 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+29Jul2015 04:55:22.722 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+29Jul2015 04:55:22.722 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+29Jul2015 04:55:27.028 [[ INFO] MemberLoginLogoutTest [main]] -------Loaded the Driver--------
+29Jul2015 04:55:29.680 [[ INFO] MemberLoginLogoutPage [main]] navigating to https://dev1.dinnerlab.com/login/?verify=boop
+29Jul2015 04:55:35.998 [[ INFO] MemberLoginLogoutPage [main]] Waiting for Login process to complete...
+29Jul2015 04:55:36.263 [[ INFO] MemberLoginLogoutPage [main]] Successfully logged into an application.
+29Jul2015 04:55:36.372 [[ INFO] MemberLoginLogoutTest [main]] -------Closing the browser--------
+29Jul2015 12:26:52.213 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+29Jul2015 12:26:52.222 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+29Jul2015 12:26:52.222 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+04Aug2015 12:06:21.081 [[ INFO] HybridFlow [main]] -------Opening the browser 136--------
+04Aug2015 12:06:21.101 [[ INFO] HybridFlow [main]] Fire Fox browser has been selected
+04Aug2015 12:06:21.101 [[ INFO] HybridFlow [main]] Fire Fox browser has been successfully loaded
+04Aug2015 12:06:41.741 [[ INFO] HybridFlow [main]] -------Opening the browser 136--------
+04Aug2015 12:06:41.742 [[ INFO] HybridFlow [main]] Fire Fox browser has been selected
+04Aug2015 12:06:41.743 [[ INFO] HybridFlow [main]] Fire Fox browser has been successfully loaded
+04Aug2015 15:32:41.492 [[ INFO] HybridFlow [main]] -------Opening the browser 136--------
+04Aug2015 15:32:41.495 [[ INFO] HybridFlow [main]] Fire Fox browser has been selected
+04Aug2015 15:32:41.495 [[ INFO] HybridFlow [main]] Fire Fox browser has been successfully loaded
+04Aug2015 15:35:27.216 [[ INFO] HybridFlow [main]] -------Opening the browser 136--------
+04Aug2015 15:35:27.217 [[ INFO] HybridFlow [main]] Fire Fox browser has been selected
+04Aug2015 15:35:27.217 [[ INFO] HybridFlow [main]] Fire Fox browser has been successfully loaded
+10Aug2015 13:27:14.435 [[ INFO] MemberEventTicketPurchaseTest [main]] -------Opening the browser 136--------
+10Aug2015 13:27:14.446 [[ INFO] MemberEventTicketPurchaseTest [main]] Fire Fox browser has been selected
+10Aug2015 13:27:14.446 [[ INFO] MemberEventTicketPurchaseTest [main]] Fire Fox browser has been successfully loaded
+10Aug2015 15:20:14.981 [[ INFO] ExistingMemberEventTicketPurchaseTest [main]] -------Opening the browser--------
+10Aug2015 15:20:14.991 [[ INFO] ExistingMemberEventTicketPurchaseTest [main]] Fire Fox browser has been selected
+10Aug2015 15:20:14.991 [[ INFO] ExistingMemberEventTicketPurchaseTest [main]] Fire Fox browser has been successfully loaded
+10Aug2015 15:20:41.978 [[ INFO] ExistingMemberEventTicketPurchaseTest [main]] -------Opening the browser--------
+10Aug2015 15:20:41.978 [[ INFO] ExistingMemberEventTicketPurchaseTest [main]] Chrome browser has been selected
+10Aug2015 15:20:56.829 [[ INFO] ExistingMemberEventTicketPurchaseTest [main]] -------Opening the browser--------
+10Aug2015 15:20:56.829 [[ INFO] ExistingMemberEventTicketPurchaseTest [main]] Chrome browser has been selected
+10Aug2015 15:21:14.240 [[ INFO] MemberLoginLogoutTest [main]] -------Opening the browser 136--------
+10Aug2015 15:21:14.240 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been selected
+10Aug2015 15:21:14.240 [[ INFO] MemberLoginLogoutTest [main]] Fire Fox browser has been successfully loaded
+17Aug2015 17:01:18.865 [[ INFO] HybridFlow [main]] -------Opening the browser--------
+17Aug2015 17:01:18.894 [[ INFO] HybridFlow [main]] Fire Fox browser has been selected
+17Aug2015 17:01:18.894 [[ INFO] HybridFlow [main]] Fire Fox browser has been successfully loaded
+17Aug2015 17:01:29.686 [[ INFO] IndividualTicketPurchaseTest [main]] -------Opening the browser--------
+17Aug2015 17:01:29.687 [[ INFO] IndividualTicketPurchaseTest [main]] Fire Fox browser has been selected
+17Aug2015 17:01:29.687 [[ INFO] IndividualTicketPurchaseTest [main]] Fire Fox browser has been successfully loaded
+23Sep2015 12:41:57.042 [[ INFO] PaidMemberSignUpTest [main]] -------Opening the browser--------
+23Sep2015 12:41:57.042 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+23Sep2015 12:41:57.042 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+23Sep2015 12:42:07.338 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+23Sep2015 12:42:50.007 [[ INFO] FreeMemberSignUpPage [main]] Navigating to https://release1.dinnerlab.com/signup/?verify=boop
+23Sep2015 12:43:54.363 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+23Sep2015 12:43:55.409 [[ INFO] FreeMemberSignUpPage [main]] SignUp unsuccessful.
+23Sep2015 12:43:55.440 [[ INFO] PaidMemberSignUpTest [main]] -------Closing the browser--------
+29Sep2015 15:57:25.852 [[ INFO] ReferralThroughInviteLinkTest [main]] -------Opening the browser--------
+29Sep2015 15:57:25.877 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+29Sep2015 15:57:25.877 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+29Sep2015 15:57:37.900 [[ INFO] ReferralThroughInviteLinkPage [main]] Navigating to http://ferrari1.dinnerlab.com/signup/q9IYWt
+29Sep2015 15:57:37.920 [[ INFO] ReferralThroughInviteLinkPage [main]] Creating Dinner Lab Subscriber Account.
+29Sep2015 15:57:50.615 [[ INFO] ReferralThroughInviteLinkPage [main]] SignUp unsuccessful.
+29Sep2015 15:57:51.641 [[ INFO] ReferralThroughInviteLinkPage [main]] Referral Account creation unsucessfull
+12Oct2015 12:00:18.442 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 12:00:18.470 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 12:00:18.470 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 12:00:37.810 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 12:39:24.084 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 12:39:24.085 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 12:39:24.085 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 12:39:40.387 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 12:41:30.684 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 12:41:30.685 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 12:41:30.686 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 12:41:42.952 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 12:45:14.180 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 12:45:14.181 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 12:45:14.181 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 12:45:26.844 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 12:46:04.987 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 12:46:04.989 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 12:46:04.989 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 12:46:17.528 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 12:55:04.479 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 12:55:04.480 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 12:55:04.480 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 12:55:17.460 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 12:57:47.104 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 12:57:47.106 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 12:57:47.106 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 12:58:01.150 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:03:05.605 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:03:05.607 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:03:05.607 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:03:21.610 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:06:48.033 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:06:48.035 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:06:48.035 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:07:01.395 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:11:04.906 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:11:04.908 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:11:04.908 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:11:19.511 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:11:48.316 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:11:48.317 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:11:48.318 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:12:01.781 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:12:32.903 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:12:32.905 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:12:32.905 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:12:46.505 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:13:21.058 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:13:21.059 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:13:21.059 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:13:37.448 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:14:33.505 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:14:33.507 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:14:33.507 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:14:50.626 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:17:02.247 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:17:02.249 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:17:02.249 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:17:18.104 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:17:34.030 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:17:34.031 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:17:34.032 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:17:50.871 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:19:09.272 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:19:09.274 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:19:09.274 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:19:25.780 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:21:24.417 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:21:24.419 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:21:24.419 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:22:03.561 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:24:38.978 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:24:38.980 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:24:38.980 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:24:54.525 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:33:37.645 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:33:37.646 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:33:37.646 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:33:52.460 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:35:09.313 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:35:09.314 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:35:09.314 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:35:26.944 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:39:29.786 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:39:29.793 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:39:29.793 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:39:45.134 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:40:09.618 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:40:09.619 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:40:09.619 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:40:24.838 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:42:35.428 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:42:35.429 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:42:35.430 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:42:53.494 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:47:53.475 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:47:53.476 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:47:53.476 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:48:08.027 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:48:59.204 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:48:59.205 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:48:59.205 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:49:14.278 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:49:35.645 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:49:35.646 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:49:35.646 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:49:49.970 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:54:10.240 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:54:10.241 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:54:10.242 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:54:24.375 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 13:55:00.776 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 13:55:00.777 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 13:55:00.777 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 13:55:14.873 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 15:10:18.219 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 15:10:18.220 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 15:10:18.220 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 15:10:41.522 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 15:12:15.721 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 15:12:15.722 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 15:12:15.722 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 15:12:36.593 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 15:15:59.821 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 15:15:59.823 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 15:15:59.823 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 15:16:29.709 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 15:21:46.868 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 15:21:46.870 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 15:21:46.870 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 15:22:03.057 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 15:22:03.058 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 15:22:03.058 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 15:22:22.680 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 15:23:03.645 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 15:23:03.646 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 15:23:03.646 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 15:23:25.304 [[ INFO] createUserTool [main]] -------Closing the browser--------
+12Oct2015 15:33:04.838 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 15:33:04.839 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 15:33:04.839 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 17:45:18.331 [[ INFO] createUserTool [main]] -------Opening the browser--------
+12Oct2015 17:45:18.331 [[ INFO] DriverManager [main]] Fire Fox browser has been selected
+12Oct2015 17:45:18.331 [[ INFO] DriverManager [main]] Fire Fox browser has been successfully loaded
+12Oct2015 17:46:43.675 [[ INFO] createUserTool [main]] -------Closing the browser--------
