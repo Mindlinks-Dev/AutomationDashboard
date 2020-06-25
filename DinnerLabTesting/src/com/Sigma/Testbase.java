@@ -36,7 +36,7 @@ public class Testbase {
 	//public static ExcelReading excel = new ExcelReading("D:\\DinnerLabWorkspace\\DinnerLabTesting\\src\\com\\src\\test\\resources\\Excel\\Testdata.xlsx");
 	//public static ExcelReading excel = new ExcelReading("D:\\Selenium\\scripts\\src\\ExcellData\\SigmaTBITestData.xlsx");
 	//public static ExcelReading excel = new ExcelReading("D:\\AutomationDashboard\\DinnerLabTesting\\src\\com\\src\\test\\resources\\Excel\\SigmaTestData.xlsx");	
-	public static ExcelReading excel = new ExcelReading("D:\\AutomationDashboard\\DinnerLabTesting\\src\\com\\src\\test\\resources\\Excel\\ManufacturingVerticalTC.xlsx");
+	public static ExcelReading excel = new ExcelReading("C:\\Users\\admin\\git\\AutomationDashboard\\DinnerLabTesting\\src\\com\\Sigma\\ManufacturingVerticalTC.xlsx");
 			
 			
 	@BeforeSuite

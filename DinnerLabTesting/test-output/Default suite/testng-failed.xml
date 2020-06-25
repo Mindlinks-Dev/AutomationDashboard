@@ -5,7 +5,7 @@
     <classes>
       <class name="com.Sigma.TCCancelRun">
         <methods>
-          <include name="CancelRun"/>
+          <include name="CancelRun" invocation-numbers="0"/>
           <include name="close"/>
           <include name="setup"/>
         </methods>

@@ -212,12 +212,20 @@ nav i{
 .panel-grid .pink p{
 	    color: #e91e63;	   
 }
+.panel-success{
+	border:1px solid #4caf50;
+	display:block;
+}
+.panel-success .panel-head{
+	background:#4caf50;
+	color:white;
+}
 .custom-table th,.custom-table td{
-	padding:10px !important
+	padding:10px !important;
 	}
 	.custom-table th{
 	font-weight:bold !important;
-	}
+	} 
 	.border-green{
     border-left: 3px solid #39DA8A;
     }

@@ -29,24 +29,14 @@
        	<%@ page import="javax.mail.internet.MimeMessage" %> -->
 
 <html>
-<head>
-<link type="text/css" rel="stylesheet" href="Main.css" /> 
-<style>
-h1{color:green;font-size:24px;}
-</style>
-</head>
-
 <body>
-<div id="logo">
-<a id="logout" href="ListOfScripts?checklist=0" style="">Back</a>
-<a id="logout" style="" href="client.jsp" onclick="return setSessionOff();">Logout</a>
-</div>
-<div class="header">
-<h3 style="">Sigma Automation Dashboard</h3>
-</div>
 
-<div id="container" class="container_executescript">
+<jsp:include page="header.jsp" />
 
+
+<div class="nav-margin">
+<div class="panel-success">
+<div class="panel-head">
 <%	
 /*
 Written by = shridhar 
@@ -458,8 +448,9 @@ code = order of execution code
 
 	
 	%>
-	  	 <p style="text-align:center;font-size:20px;">Executed script result will be sent to your registered e-mail.</p>
-	  	
+	</div>
+	  	 <p >Executed script result will be sent to your registered e-mail.</p>
+	  	</div>
 </div>	
 <!--  <div class="footer" style=""><p style="">Mindlinks Solution &copy 2019</p></div> -->
 </body>
