@@ -35,7 +35,8 @@ public class Testbase {
 	public static Logger log = Logger.getLogger(Testbase.class);
 	//public static ExcelReading excel = new ExcelReading("D:\\DinnerLabWorkspace\\DinnerLabTesting\\src\\com\\src\\test\\resources\\Excel\\Testdata.xlsx");
 	//public static ExcelReading excel = new ExcelReading("D:\\Selenium\\scripts\\src\\ExcellData\\SigmaTBITestData.xlsx");
-	public static ExcelReading excel = new ExcelReading("D:\\AutomationDashboard\\DinnerLabTesting\\src\\com\\src\\test\\resources\\Excel\\SigmaTestData.xlsx");		
+	//public static ExcelReading excel = new ExcelReading("D:\\AutomationDashboard\\DinnerLabTesting\\src\\com\\src\\test\\resources\\Excel\\SigmaTestData.xlsx");	
+	public static ExcelReading excel = new ExcelReading("D:\\AutomationDashboard\\DinnerLabTesting\\src\\com\\src\\test\\resources\\Excel\\ManufacturingVerticalTC.xlsx");
 			
 			
 	@BeforeSuite
@@ -81,9 +82,14 @@ public class Testbase {
 				log.debug("opens browser");
 			}
 			driver.navigate().to(config.getProperty("SigmaURL"));
-			driver.findElement(By.xpath(OR.getProperty("Username"))).sendKeys(config.getProperty("Un"));
+			
+			driver.findElement(By.xpath(OR.getProperty("Username"))).sendKeys("sigma_manufacturingverticle_pe@mindlinks.com");
 
-			driver.findElement(By.xpath(OR.getProperty("Password"))).sendKeys(config.getProperty("Pwd"));
+			driver.findElement(By.xpath(OR.getProperty("Password"))).sendKeys("password-1");
+			
+			//driver.findElement(By.xpath(OR.getProperty("Username"))).sendKeys(config.getProperty("mrun"));
+
+			//driver.findElement(By.xpath(OR.getProperty("Password"))).sendKeys(config.getProperty("mrps"));
 
 			driver.findElement(By.xpath(OR.getProperty("Login"))).submit();
 			 log.debug("login successfull");

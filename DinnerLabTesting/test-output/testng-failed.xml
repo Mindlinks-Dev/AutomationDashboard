@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.SigmaInbound.TCCancelRun">
+      <class name="com.Sigma.TCCancelRun">
         <methods>
+          <include name="CancelRun"/>
           <include name="close"/>
           <include name="setup"/>
-          <include name="CancelRun" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.SigmaInbound.TCCancelRun -->
+      </class> <!-- com.Sigma.TCCancelRun -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
