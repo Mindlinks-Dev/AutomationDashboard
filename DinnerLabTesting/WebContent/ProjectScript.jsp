@@ -11,12 +11,7 @@
 <html>
 <head>
 <title>ProjectScript</title>
-<style>
-	th{font-size:14px !important;font-weight:bold !important;}
-	h2{font-size:20px !important;}
-	#test{font-weight:bold;}
-</style>
-<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" /> 
+
 </head>
 <body>
 <div style="background:white;height:100vh;">

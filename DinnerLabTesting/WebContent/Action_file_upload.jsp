@@ -13,7 +13,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title> File Upload</title>
-<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" /> 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 </head>
 <script type="text/javascript">

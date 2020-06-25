@@ -11,13 +11,7 @@
 <html>
 <head>
 <style>
-th{font-size:14px !important;font-weight:bold !important;}
-h2{font-size:20px !important;}
-#test{font-weight:bold;}
-input{border: 1px solid #dddbda;padding: 0 1rem 0 .75rem;  line-height: 1.875rem !important;
-    border-radius: 4px;}
-</style>
-<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" /> 
+
 <link rel="stylesheet" type="text/css" href="css/jquery.simple-dtpicker.css">
 <script src="js/jquery.min.js"></script>
 <script>

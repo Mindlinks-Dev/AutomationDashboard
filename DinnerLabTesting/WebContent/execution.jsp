@@ -15,9 +15,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Execution</title>
-<link type="text/css" rel="stylesheet" href="Main.css" /> 
-<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" />
+<title>Execution</title> 
 <!-- Datatable pagination CDN libs -->
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="js/jquery.dataTables.js"></script>
@@ -48,16 +46,13 @@ function back()
 	history.back();
 	}
 </script>
-<style>
-#example th{font-size: 96% !important;
-font-weight: normal !important;}
-</style>
+
 </head>
 <body>
 <jsp:include page="header.jsp" />
 
 
-
+<div class="container">
 <div id="clienthome_container">
  <div class="header" style="">
 <br/>
@@ -94,23 +89,21 @@ String Output_Report_Location=null;
 %>
 
 
-<table id="example"  class="CSSTableGenerator" cellspacing="0" width="96%" style=""><!-- class="display" -->
+<table id="example"  class="custom-table slds-table slds-table_cell-buffer slds-table_bordered slds-table_col-bordered"><!-- class="display" -->
 
 
 <thead>
             <tr>
-                <th id="upload" style="text-align:center">ID</th>
+                <th id="upload">ID</th>
                 <!--  <th id="upload"  style="border-radius:0;">Total Scenarios</th>-->
                <!--  <th id="upload" style="border-radius:0;">Script Name</th> -->
-                <th id="upload" style="text-align:center">Script Name</th>
-                <th id="upload"  style="text-align:center">Executed By</th>
-                <th id="upload"  style="text-align:center">Start Time</th>
-                <th id="upload"  style="text-align:center">End Time</th>
-                <th id="upload"  style="text-align:center">Status</th>
-                <th id="upload"  style="text-align:center">Time Taken</th>
-                <th id="upload"  style="text-align:center">Input Output File</th>
-                <th id="upload"  style="text-align:center">Report Link</th>
-                 <th id="upload"  style="text-align:center">ConsoleReport Link</th>
+                <th id="upload">Script Name</th>
+                <th id="upload">Executed By</th>
+                <th id="upload">Start Time</th>
+                <th id="upload" >End Time</th>
+                <th id="upload">Status</th>
+                <th id="upload">Time Taken</th>
+                <th id="upload"></th>
                 <!--<th id="upload"  style="border-radius:0;">Excel Report</th>  -->
             </tr>
         </thead>
@@ -231,20 +224,17 @@ String Output_Report_Location=null;
  %>
  <!-- <td><center><a href="popup.jsp?id=<%=  rs.getInt(1)%>" target="_blank" onclick="return show_details(this.href);"></td>
  <%= Total_Scenarios %></a></center></td> -->
- <td><center><%=  scriptname %></center></td>
- <td><center><%=  rs.getString(3)%></center></td>
- <td><center><%=  rs.getString(2)%></center></td>
- <td><center><%=  End_Time%></center></td>
- <td><center><span class="slds-badge slds-theme_success"><%=  rs.getString(5)%></span></center></td>
- <!-- <td><center><a href="file:///C:/Users/win/Desktop/sample.html">View</a></center></td> -->
- <td><center><%=  Time_Taken %></center></td>
-<td><center><a style="" href="${pageContext.request.contextPath}/DownLoadFileServlet?id=<%= rs.getString(4) %>">Download</a></center></td>
-<!-- <td><center><a style="" href="/DinnerLabAutomationDashboard/Report/Results/Run_<%= Report_Link %>/CurrentRun.html" target="_blank">View</a></center></td>-->
- <td><center><a style="" href="/SigmaAutomation/Report/Results/Run_<%= Report_Link %>/CurrentRun.html" target="_blank">View</a></center></td>
-<td><center><a style="" href="${pageContext.request.contextPath}/ConsoleReport/<%= rs.getString(12) %>">ConsoleReport</a></center></td>
+ <td><%=  scriptname %></td>
+ <td><%=  rs.getString(3)%></td>
+ <td><%=  rs.getString(2)%></td>
+ <td><%=  End_Time%></td>
+ <td><span class="slds-text-color_success"><b><%=  rs.getString(5)%></b></span></td>
+ <td><%=  Time_Taken %></td>
+ <td><a title="Download" href="${pageContext.request.contextPath}/DownLoadFileServlet?id=<%= rs.getString(4) %>"><i class="fa fa-download fa-green" aria-hidden="true"></i></a>
+ <a title="View" href="/SigmaAutomation/Report/Results/Run_<%= Report_Link %>/CurrentRun.html" target="_blank"><i class="fa fa-eye fa-blue" aria-hidden="true"></i></a>
+ <a title="Console Report" href="${pageContext.request.contextPath}/ConsoleReport/<%= rs.getString(12) %>"><i class="fa fa-tachometer fa-red" aria-hidden="true"></i></a>
+ </td>
 
-
-<!-- <td><center><a style="" href="<%= Output_Report_Location%><%= rs.getString(12) %> ">Download</a></center></td>-->
 </tr>
               
     	 <% 
@@ -320,7 +310,7 @@ finally
  	
  	
 </script>
-<jsp:include page="footer.jsp" />
+</div>
 </div>
 <!--   <div class="footer" style=""><p style="">CRMIT Solution &copy 2018</p></div>   --> 
 </body>

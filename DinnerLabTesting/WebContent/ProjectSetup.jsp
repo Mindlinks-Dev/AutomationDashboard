@@ -5,16 +5,11 @@
 <%@page import="java.sql.Connection"%>
 <%@page import="com.pack.*" %>
 
-<!-- Html  code--->
+
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-th{font-size:14px !important;font-weight:bold !important;}
-h2{font-size:20px !important;}
-#test{font-weight:bold;}
-</style>
-<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" /> 
+
 <link rel="stylesheet" type="text/css" href="css/jquery.simple-dtpicker.css">
 <script src="js/jquery.min.js"></script>
 <script>
@@ -37,26 +32,22 @@ $(function() {
 </head>
 <body>
 <jsp:include page="header.jsp" />
-<article class="slds-card slds-m-horizontal_small" style="height:73vh;font-size:17px;">
+
+<div class="container">
+<article class="slds-card1">
  <div class="slds-card__header slds-grid">
    <header class="slds-media slds-media_center slds-has-flexi-truncate">
-<img src="Images/cloud.png" width="40px"/>
-     <div class="slds-media__figure">
-       <span class="slds-icon_container slds-icon-standard-account" title="Project Names">
-         
-         <span class="slds-assistive-text">Project Names</span>
-       </span>
-     </div>
+
      <div class="slds-media__body">
        <h2 class="slds-card__header-title">
          <a href="javascript:void(0);" class="slds-card__header-link slds-truncate" title="Accounts">
-           <span>Project Names</span>
+           <span><i class="fa fa-file-text" aria-hidden="true"></i> PROJECT NAMES</span>
          </a>
        </h2>
      </div>
      <div class="slds-no-flex" style="display:inline-flex;">
    <form action="ActionCreateProject.jsp" >
-   <button class="slds-button slds-button_brand slds-m-right_x-small" id="Upload" type="submit"><b>New</b></button>
+   <button class="slds-button slds-button_neutral slds-m-right_x-small" id="Upload" type="submit"><b>New</b></button>
    </form>
 		<!-- <button class="slds-button slds-button_brand slds-m-right_x-small" id="Upload" onclick="uploadPopup();">Upload Script</button> -->
 <!--</form>
@@ -71,7 +62,7 @@ $(function() {
   </header>
 </div>
 <div class="slds-card__body slds-card__body_inner1">
-<table class="slds-table slds-table_cell-buffer slds-table_bordered slds-table_fixed-layout">
+<table class="custom-table slds-table slds-table_cell-buffer slds-table_bordered slds-table_fixed-layout">
 <thead>
   <tr class="slds-line-height_reset">
   <!-- <th class="slds-text-title_caps" scope="col">
@@ -114,7 +105,7 @@ while(resultSet.next()){
 <td> <%=resultSet.getString("script_status") %></td> --%>
 <th> 
    <form action="ActionUpdateProject.jsp" >
-   <a  class="slds-text-title_caps" href="ActionUpdateProject.jsp?id=<%=resultSet.getString("ProjectId")%>&name=<%=resultSet.getString("ProjectName") %>" value="execute">Update</a>
+   <a  class="slds-text-title_caps update-btn" href="ActionUpdateProject.jsp?id=<%=resultSet.getString("ProjectId")%>&name=<%=resultSet.getString("ProjectName") %>" value="execute">Update</a>
     
     </form>
      </th>
@@ -134,7 +125,7 @@ e.printStackTrace();
   </div>
 
 </article>
-
+</div>
 
 
 
@@ -206,7 +197,6 @@ e.printStackTrace();
   <div class="slds-backdrop slds-backdrop_open"></div>
 </div>
  
-<jsp:include page="footer.jsp" />
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
  <script>
@@ -372,8 +362,7 @@ $(document).ready(function(){
   </section>
   <div class="slds-backdrop slds-backdrop_open"></div>
 </div>
- 
-<jsp:include page="footer.jsp" />
+
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
  <script>
