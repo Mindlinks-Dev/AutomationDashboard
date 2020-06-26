@@ -29,12 +29,24 @@ function back()
 <a><i class="fa fa-sellsy" aria-hidden="true"></i> SIGMA</a>
 </div>
 <div class="logout">
-<a id="logout" href="client.jsp" onclick="return setSessionOff();" title="Logout"><img src="Images/logged-user.png"/></a>
-<section aria-label="Dialog title" aria-describedby="popover-body-id" class="slds-popover slds-nubbin_top-right" role="dialog">
-<div id="popover-body-id" class="slds-popover__body">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, quaerat? Accusamus excepturi eos, molestias expedita distinctio eligendi ut esse quasi!</p>
+<span>
+<a id="logout" class="logout-hover" href="client.jsp" onclick="return setSessionOff();">
+<img src="Images/loggeduser.png"/>
+<i class="fa fa-sort-desc" aria-hidden="true"></i>
+</a>
+
+</span>
+<section class="slds-popover slds-nubbin_top-right hide">
+<div  class="slds-popover__body">
+<p><span class="text-small">Logged in as</span>
+<br/>
+<b><b><%=session.getAttribute("name") %></b>
+</p>
 </div>
-</section>
+ <footer class="slds-popover__footer">
+     <button class="slds-button slds-button_destructive">Logout</button>
+  </footer>
+</section> 
 </div>
 
 </header>

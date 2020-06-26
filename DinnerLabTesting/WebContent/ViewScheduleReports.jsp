@@ -90,39 +90,39 @@ function back()
   <thead>
     <tr class="slds-line-height_reset">
       <th class="slds-text-title_caps" scope="col">
-        <div class="slds-truncate" title="ScheduleID">ScheduleID</div>
+        <div class="slds-truncate" title="ScheduleID">Schedule ID</div>
       </th>
 	  <th class="slds-text-title_caps" scope="col">
-        <div class="slds-truncate" title="UserName">UserName</div>
+        <div class="slds-truncate" title="UserName">User Name</div>
       </th>
 	  <th class="slds-text-title_caps" scope="col">
-        <div class="slds-truncate" title="ScriptStartDateTime">Script_StartDateTime</div>
+        <div class="slds-truncate" title="ScriptStartDateTime">Script Start Date</div>
       </th>
       <th class="slds-text-title_caps" scope="col">
-        <div class="slds-truncate" title="SchedulerEnddate">Script_EndDate</div>
+        <div class="slds-truncate" title="SchedulerEnddate">Script End Date</div>
       </th>
        <th class="slds-text-title_caps" scope="col">
-        <div class="slds-truncate" title="Status">Script_Status</div>
+        <div class="slds-truncate" title="Status">Script Status</div>
        </th>
     </tr>
   </thead>
   <tbody>      
 	<%
 
-
+	String proId = request.getParameter("id");
 Connection connection = null;
 Statement statement = null;
 ResultSet resultSet = null;
 try{
 connection = Database.getConnection();
 statement=connection.createStatement();
-String sql ="select * from schedule";
+String sql ="select * from schedule where Schedule_id="+proId;
 resultSet = statement.executeQuery(sql);
 while(resultSet.next()){
 %>
 <tr >
 <td><%=resultSet.getString("Schedule_id") %></td>  
-<td><%=resultSet.getString("User_Name") %></td>  
+<td><%=resultSet.getString("Requested_by") %></td>  
 <td><%=resultSet.getString("ScriptStartDateTime") %></td>  
 <td><%if(resultSet.getString("SchedulerEnddate")!=null)
 	
@@ -139,8 +139,8 @@ while(resultSet.next()){
 
 
 
-<!--  <td><%=resultSet.getString("Status") %></td>-->
-<td>
+  <td><%=resultSet.getString("Status") %></td>
+<!--<td>
 <div class="slds-form-element__control">
     <div class="slds-select_container">
     <select class="slds-select" id="scriptStatus"  onchange="scriptStatus()">
@@ -151,7 +151,7 @@ while(resultSet.next()){
         </div>
         </div>
         </td>
-        
+       --> 
 
 </tr>
 

@@ -314,7 +314,7 @@ if(currid=='Mobile')
 	<div class="panel panel-default blue">
 					<p>View Scheduled Reports<i class="fa fa-file-text-o" aria-hidden="true"></i></p>
 					
-					<a class="btn-blue" href="ViewScheduleReports.jsp">Click Here</a>					
+					<a class="btn-blue" href="ViewScheduleReports.jsp?id=<%=request.getParameter("id")%>">Click Here</a>					
 								
 				</div>
 	</div>

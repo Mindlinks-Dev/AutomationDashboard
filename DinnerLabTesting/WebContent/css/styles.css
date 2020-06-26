@@ -19,13 +19,20 @@ a{
 a:hover{
 	text-decoration:none;
 }
+.text-caps{
+	text-transform:uppercase;
+}
+.text-center{
+	text-algin:center; 
+}
 .login-page{
 	width:100%;
 	height:100vh;
 	background:url("../Images/Automation.jpg")
 } 
 .login-page form{
-	width:35%;
+	display:block;
+	width:32%;
 	margin:auto;
 	background:white;
 	 margin: 0;
@@ -38,9 +45,9 @@ a:hover{
 }
 .login-page h1{
 	    text-align: center;
-    font-size: 38px;
+    font-size: 32px;
     font-weight: 700;
-    color: black;
+    color: #5a8dee;
 }
 .login-page h2{
 	    font-size: 16px;
@@ -49,17 +56,28 @@ a:hover{
     margin-bottom: 18px;
 }
 .login-page label{
-	    color: #979696;
+	    font-size:12px;
 }
 .login-page input{
 	    min-height: 44px;
     -webkit-box-shadow: none;
     box-shadow: none;
-    border: 1px solid #e7e7e7;
+    border: 1px solid darkgray;
     padding: 10px 15px;
     color: #111111;
     width:100%;
         margin-bottom: 10px;
+}
+.login-page input::-webkit-input-placeholder { /* Edge */
+  color: #e7e7e7;
+}
+
+.login-page input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #e7e7e7;
+}
+
+.login-page input::placeholder {
+  color: #979696;
 }
 .login-page .login-btn{
 	color: #fff;
@@ -77,8 +95,12 @@ a:hover{
     top: 0;
     z-index:1;
 }
-
-
+.hide { 
+  display: none;
+}
+.logout-hover:hover + .hide {
+  display: block;
+}
 .logo {
   height: 55px;  
     width: 246px;
@@ -107,15 +129,24 @@ a:hover{
 .logout{
 	float:right; 
 }
+.logout i{
+	color:white;
+}
+.logout .slds-popover{
+	top: 55px;
+    right: -40px;
+}
+.logout .text-small{
+	font-size:10px;
+}
 .logout a{
 	    float: right;
     position: relative;
-    top: 13px;
-    right: 8px;
+    top: 16px;
+    right: 24px;
 }
 .logout a img{
-	width:32px;
-	float:right;
+	width:30px;
 }
 nav{
 	display: block;
