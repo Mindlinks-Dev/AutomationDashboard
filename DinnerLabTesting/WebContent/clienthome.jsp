@@ -11,14 +11,13 @@
 <%@page import="java.sql.Statement"%>
 
 <%@page import="com.pack.Database"%>
- 
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>MLS_Dashboard</title>
-
 
 
 <link rel="stylesheet" type="text/css" href="css/jquery.simple-dtpicker.css">
@@ -162,8 +161,6 @@ function displayScheduler()
 {		  
 	var x = document.getElementById("scheduler-content");
 	if (x.style.display === "none") {
-		//alert('Please select atleast one Project !');
-		//return false;
 		x.style.display = "block";
 	} else {
 		x.style.display = "none";
@@ -295,7 +292,6 @@ if(currid=='Mobile')
 </head>
 <body>
 <jsp:include page="header.jsp" />
-
 <div class="slds-grid nav-margin panel-grid">
 	<!-- <div class="slds-col">
 	<div class="panel panel-default purple">
@@ -331,8 +327,16 @@ if(currid=='Mobile')
 				</div>
 	</div>
 </div>
-
 <div class="container">
+<div id="welcome">
+
+
+<%
+String DownloadFileUrl=AutomateLoader.config.getProperty("UPLOADED_INPUTFILE_DOWNLOAD");
+%>
+
+
+
 
 <div>
 <div class="slds-card1">
@@ -344,7 +348,7 @@ if(currid=='Mobile')
          <span class="slds-assistive-text">Project Names</span>
        </span>
      </div>
-     <div class="slds-media__body">
+    <div class="slds-media__body">
        <h2 class="slds-card__header-title">
          <a href="javascript:void(0);" class="slds-card__header-link slds-truncate" title="Accounts">
            <span><i class="fa fa-file-text" aria-hidden="true"></i> PROJECT SCRIPTS</span>
@@ -356,9 +360,8 @@ if(currid=='Mobile')
      
     </header>
   </div>
-  
+  <div class="slds-card__body slds-card__body_inner1">
   <form action="executescript.jsp" method="post" id="form1">
-  <div class="slds-card__body1 slds-card__body_inner1">
 <input type="hidden" id="checkedvalues" value="7:-1" name="checkedvalues" />
   <table class="custom-table slds-table slds-table_cell-buffer slds-table_bordered slds-table_fixed-layout">
   <thead>
@@ -409,7 +412,7 @@ while(resultSet.next()){
 
 
 <tr >
-<td><input type="checkbox" name="scriptlist"  value=<%=resultSet.getString("script_id") %> value="execute"  > </td>
+<td><input type="checkbox" name="scriptlist" value=<%=resultSet.getString("script_id") %> value="execute"  > </td>
 <td id="fn1"><%=request.getParameter("name") %></td> 
 
 <td id="fn"><%=resultSet.getString("script_name") %></td> 
@@ -430,8 +433,11 @@ e.printStackTrace();
 %>
 </tbody>
 </table>
-
- <div class="scheduler-content" id="scheduler-content" style="display:none;">
+<footer class="slds-card__footer" style="margin-top:0;padding-top: 30px;">
+   <input type="submit" class="slds-button slds-button_brand" id="submit1" value="Execute" onclick="return validateForm();"/>
+   <input type="button" class="slds-button slds-button_brand" id="submit1" value="Schedule" onclick="displayScheduler()"/>
+                                          
+                                          <div class="scheduler-content" id="scheduler-content" style="display:none;">
 
 <div class="demo-only">
   <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal slds-fade-in-open">
@@ -474,13 +480,12 @@ e.printStackTrace();
 										
 									
 									                                         
-                                       </div>    
+                                       </div>     
                                    </div>
      </div>
-     
      <footer class="slds-modal__footer">
   <input type="button" class="slds-button slds-button_brand" onclick="ScheduleScript();" value="Save"/>	  
-       
+      <input type="button" class="slds-button slds-button_brand" onclick="closeModal();" value="Cancel"/>	 
       </footer>
 	  </form> 
     </div>
@@ -489,16 +494,12 @@ e.printStackTrace();
 </div>										   
 										
 </div>
-</div>
-<footer class="slds-card__footer" style="margin-top:0;padding-top: 30px;">
-   <input type="submit" class="slds-button slds-button_brand" id="submit1" value="Execute" onclick="return validateForm();"/>
-   <input type="button" class="slds-button slds-button_brand" id="submit1" value="Schedule" onclick="displayScheduler()"/>
 </footer>
 </form>
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
 
 <!-- code to validate whether the check box is checked -->
 
@@ -506,20 +507,18 @@ e.printStackTrace();
   <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal slds-fade-in-open">
     <div class="slds-modal__container">
      
-     <form action="Action_file_upload.jsp" method="post" enctype="multipart/form-data">
+     <form action="Action_file_upload.jsp" method="post"
+                        enctype="multipart/form-data">
       <header class="slds-modal__header">       
-        <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Upload Script</h2>
+        <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Upload File</h2>
       </header>
-      
-      <div class="slds-modal__content slds-p-around_medium " id="modal-content-id-1">
-      <div class="file-upload"> 
+      <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
         <input type="file" name="file"/>    
 	
-      
+      </div>
       <input type="hidden" id="filename" name="filename" value="">
       <input type="hidden" id="ProjectId" name="ProjectId" value="">
-	  </div>
-	  </div>
+	  
       <footer class="slds-modal__footer">
         <input class="slds-button slds-button_brand" type="submit" id="submit1" value="Upload"/>
         <button class="slds-button slds-button_neutral" onclick="cancelUploadPopup()">Cancel</button>
@@ -533,6 +532,7 @@ e.printStackTrace();
   <div class="slds-backdrop slds-backdrop_open"></div>
 </div>
 
+</div>
 
 <script>
 

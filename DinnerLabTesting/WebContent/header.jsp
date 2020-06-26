@@ -50,7 +50,7 @@ function back()
 <div class="welcome">
 <div class="slds-grid">
 <div class="slds-col slds-col-1">
-<a title="Back" onclick="back()"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i></a>
+<a class="back" title="Back" onclick="back()"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i></a>
 </div>
 <div class="slds-col slds-col-2">
 <p>Welcome to Sigma</p>

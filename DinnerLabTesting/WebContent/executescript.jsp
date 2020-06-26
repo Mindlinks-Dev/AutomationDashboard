@@ -42,37 +42,6 @@
 <div class="panel-content">
 <ol class="slds-list_ordered">
 <%	
-/*
-Written by = shridhar 
-code = order of execution code
-*/
-	//String testOrderOfExecution = request.getParameter("OrderList");
-	//System.out.println("Inside Executescript JSP testOrderOfExecution:"+testOrderOfExecution);
-/* 	System.out.println("Inside Executescript JSP testOrderOfExecution:"+testOrderOfExecution.toString());
-	String [] orderExecArray = testOrderOfExecution.split(",");
-	System.out.println("orderExecArray is :"+orderExecArray);
-	//System.out.println("orderExecArray[0] is :"+orderExecArray[0]);
-	//System.out.println("orderExecArray[1] is :"+orderExecArray[1]);
-	System.out.println("orderExecArray length is :"+orderExecArray.length);
-	OrderEntity orderExecObj = new OrderEntity();
-	//OrderEntity.ScriptOrderExecutionMap.put(Integer.parseInt(SciptID), ScriptName);
-	for(int k = 0 ; k < orderExecArray.length ; k++ )
-	{
-		//System.out.println("k :"+k);
-		//System.out.println(k+" th array element is :"+orderExecArray[k]);
-		String temp = orderExecArray[k];
-		System.out.println("temp :"+temp);
-		if(temp.contains("="))
-		{
-			System.out.println("Inside for loop iteration true:");
-			String [] tempInnerArray = temp.split("=");
-			System.out.println("tempInnerArray[0] :"+tempInnerArray[0]);
-			System.out.println("tempInnerArray[1]:"+tempInnerArray[1]);
-			OrderEntity.ScriptOrderExecutionMap.put(tempInnerArray[0],tempInnerArray[1]);
-		}
-		
-		//orderExecObj.ScriptId = ; 
-	}  code ends here*/
 	
 	System.out.println("After Final Map Construction:"+OrderEntity.ScriptOrderExecutionMap);
 	System.out.println("After Final Map Construction size() is :"+OrderEntity.ScriptOrderExecutionMap.size());
@@ -101,7 +70,7 @@ code = order of execution code
 	String scheudleEndDate = request.getParameter("scheduleenddate").toString();
 	System.out.println("scheudleEndDate:::"+scheudleEndDate);
 	
-	String UserName=null;//defining  UserName globally to enable it to be available throught this jsp page
+	String UserName=null;
    
 	
 	if(ischeckedScheudle.equalsIgnoreCase("scheduled"))
@@ -114,7 +83,6 @@ code = order of execution code
 		connection = Database.getConnection();
 		statement=connection.createStatement();
 
-		//String sql  ="insert into schedule(Schedule_id,User_Name,Status,Start_date)values('"+Schedule_id+"','"+User_Name+"','"+Status+"','"+Start_date+"')" ;
 		String User_Name = session.getAttribute("name").toString();
 		System.out.println("User_Name:"+User_Name);
 		System.out.println("LoginAuthenticate.userSignupId:"+LoginAuthenticate.userSignupId);
@@ -142,13 +110,7 @@ code = order of execution code
 			System.out.println("Before starting the execution :"+e.getMessage());
 		}
 	}
-	
-	
-	//List<String> fetchFlowNames = new ArrayList<String>();//Array list to fetch ScriptNames:for Hybrid flows
-    //List<String> ExecutedScripts = new ArrayList<String>();//Array list to fetch ScriptNames: For Normal Scripts
-			//System.out.println("logically printing values:inside execute script 1 : "+checkedval);
-			//int id=checkedval.split(:);
-			//System.out.println("Script Id inside executescript is :"+id);
+
 			ArrayList<String> fetchFlowNames = new ArrayList<String>();
 			ArrayList<String> ExecutedScripts = new ArrayList<String>();
 			String [] parts =checkedval .split(":");
@@ -157,38 +119,19 @@ code = order of execution code
 			try
 			{
 			ScriptId = Integer.parseInt(parts[0]);
-			//String ScriptId = (parts[0]);
 			
 			FlowId = parts[1]; 
 		
-			//System.out.println("inside executeScript page ScriptId is 2  :" +ScriptId+ " Flow Id are :"+FlowId);
-			//System.out.println("FlowId Length inside executescript is  :" +FlowId.length());
 			}
 			catch(Exception ex)
 			{
-				//System.out.println("Exception Occured at executescript.jsp page :"+ex.getMessage());
 			}
 			
-			
-			
-			
-			/*String FlowId[]=checkedval.split(",");
-			String temp[]=null;
-			
-			for(int i = 0 ; i <= FlowId.length ; i++ )
-			{
-				temp[i]=(FlowId[0]);
-			}
-			
-			
-			System.out.println("Flow Id's are :"+temp);
-			*/
-	//String hidden = request.getParameter("hid"); 
-	//System.out.println("SelectedIds::"+SelectedIds);
+
 	if(SelectedIds != null && SelectedIds.length>0)
 	{
 			%>
-			<div>
+			
 			<%
 
 		  	System.out.println("<h1>You have Executed following Scripts </h1>");
@@ -200,7 +143,6 @@ code = order of execution code
 				selectedScriptNames=Integer.parseInt(SelectedIds[count]);
 				System.out.println("Script ID inside executescript jsp is :"+selectedScriptNames);
 				
-				//Check for last record
 		 			if(count+1 == SelectedIds.length)
 		 			{
 			 		QueryIds=QueryIds+")";
@@ -218,30 +160,23 @@ code = order of execution code
 		 		<%	
 				getSlectedScriptNames=ScriptEntity.HScenarios.get(selectedScriptNames); 
 		 		}
-	 			//emailString=getSlectedScriptNames+",";
 				%>
-				</div>
 				<% 
 	 				
 		 		System.out.println("Inside executescript jsp QueryIds"+QueryIds);
 	 
 	  			for(int i=0;i<SelectedIds.length;i++)
 	  			{
-	  			//System.out.println("Selected Ids" +SelectedIds[i]);
-	  			//out.println("selceted script names inside executescript are :" +ScriptEntity.HScenarios.get(SelectedIds[i]));
 	  		
 	  			}
 	  			try
 	  			{
-
-			 	//System.out.println("before calling con in execute script");
 		 	 	con= Database.getConnection();
-		 	 	//System.out.println("value of con after get connection in execute script::"+con);
+		 
 	  			String Query= "select * from Script where script_id in "+QueryIds;
-		 	 	//System.out.println("after query in execute script ::"+Qyery);
+	  			System.out.println("QUERY>>>>>"+Query);
 	  		//==================== code to Fetch Hybrid FlowNames from Database based on Flow Id Starts here ==================================		
 
-				//System.out.println("FlowId s are :"+FlowId);
 				String FlowId2=null;
 				FlowId2=FlowId;
 				if(FlowId2.equals("-1"))
@@ -249,39 +184,6 @@ code = order of execution code
 					FlowId2=1+","+2+","+3;
 				}
 				FlowId2 = FlowId2.replace(",", "','");
-				//System.out.println("flow id 2 ::"+FlowId2);
-				
-				//String temp=FlowId2.split("''");
-				//System.out.println("After Putting Flow Id Into Different String variable :"+FlowId2);
-			 	//System.out.println("before calling resultset in execute script");
-				
-				
-				/* // Commented on October-31
-				ResultSet rs2=con.createStatement().executeQuery("Select FlowName from script_flows where FlowId in('"+FlowId2+"')");
-			 
-				String test="Ticket Purchase(Complete)-->";
-				try
-				{
-			    	while (rs2.next()) 
-			    	{
-			    		
-				fetchFlowNames.add(rs2.getString(1));
-				test+=rs2.getString(1)+",";
-			  		}//end of while loop
-				}
-				catch(Exception ex)
-				{
-					//System.out.println("Exception Occured in Executescript page while Fetching FlowNames From DataBase :"+ex.getMessage());
-				}
-				finally
-				{
-					rs2.close();
-				}
-				*/ //--Commented on October-31
-		
-			    //System.out.println("After Fetching FlowNames From Database base on FlowId :"+fetchFlowNames);
-			    //System.out.println("After Fetching FlowNames From Database test String :"+test);
-			   // System.out.println("After removing comma(,) test String :"+test.substring(0,test.length()-1));
 			  
 //==================== code to Fetch Hybrid FlowNames from Database based on Flow Id Ends here ==================================	
 			
@@ -305,7 +207,7 @@ code = order of execution code
 					scriptobj.ScriptPackageName = rSelectedIds.getString("script_package_Name");
 					scriptobj.Project_Id =rSelectedIds.getInt("ProjectId");
 					ExecutedScripts.add(rSelectedIds.getString("script_name"));
-					//System.out.println("scriptobj.ScriptId:"+scriptobj.ScriptId+"ScriptId:"+ScriptId);  
+					System.out.println("scriptobj.ScriptId:"+scriptobj.ScriptId+"ScriptId:"+ScriptId);  
 							
 				
 					if(scriptobj.ScriptId == ScriptId)
@@ -315,9 +217,8 @@ code = order of execution code
 						
 					}
 					scriptobjlist.add(scriptobj);
-					
-					//printing varaibles
-				System.out.println("Selected  Script Id:"+scriptobj.ScriptId);
+
+			    System.out.println("Selected  Script Id:"+scriptobj.ScriptId);
 				System.out.println("Selected Script Name:"+scriptobj.ScriptName);
 			    System.out.println("Selected Script input file:"+scriptobj.ScriptInputFile);
 				System.out.println("Selected Script scenario:"+scriptobj.ScriptScenario);
@@ -326,8 +227,7 @@ code = order of execution code
 				System.out.println("Selected Script categoryId:"+scriptobj.ScriptCategoryId);
 				System.out.println("Selected Script categoryName:"+scriptobj.ScriptCategoryName);
 				System.out.println("Selected Script projectid:"+scriptobj.Project_Id);
-				
-				}//end of while loop 
+				}
 			
 	  	   //2.Write to the execution table
 	  	
@@ -336,6 +236,7 @@ code = order of execution code
 	  	 		ScriptResult result=new ScriptResult();
 	  		   	 UserName=session.getAttribute("FirstName")+" "+session.getAttribute("LastName") ;
 	  		  	execid= result.insertExecutionRequest(scriptobjlist,UserName);
+	  		  	System.out.println("execid>>>>"+execid);
 	  		 	 
 	  	 		}
 	  	  	  catch(Exception ex)
@@ -344,15 +245,6 @@ code = order of execution code
 	  	  		 // System.out.println("Exeption occured in executescipt.jsp :"+ex);
 	  	  	  }
 	  	  	  
-	  		  
-	  			//writing FlowId's into executiondetails table
-	  		/*	if(ScriptId!=0)
-	  			{	
-	  			String updateQuery="update executiondetails set ContainsFlows='"+FlowId+"' where scriptid='"+ScriptId+"' and execid='"+execid+"' ";
-	  			int test= con.createStatement().executeUpdate(updateQuery);
-	  	  		}
-	  			*/
-	  		  //	System.out.println("inside executescript :"+execid);
 	  		  	
 	  			String emailId="";
 	  			
@@ -360,10 +252,7 @@ code = order of execution code
 	  			{
 	  				emailId=session.getAttribute("EmailAddress").toString();
 	  			}
-  
-	  	  	//3. Call the automation engine
-	  	  	//System.out.println("execid::::"+execid);
-	  	 // System.out.println("scriptobjlist::::"+scriptobjlist);
+
 	  	  	ScriptHandler handler = new ScriptHandler();
 	  	  	try
 	  	  	{
@@ -382,17 +271,6 @@ code = order of execution code
 	  	  		{
 	  	  			System.out.println("inside else::::");
 	  	  			handler.execute(scriptobjlist,execid);//calling ScriptHandler's Execute()================	
-	  	  		
-	  	 	
-	  	  /*	try
-	  	  	{
-	  	  		EditPieChartContents edit = new EditPieChartContents();
-				edit.editPieChartContentsActions();
-	  	  	}
-	  	  	catch(Exception ex)
-	  	  	{
-	  	  		ex.printStackTrace();
-	  	  	}*/
 	  	 	
 			
 	  	//===================calling ScriptHandler's sendEmail(ArrayList<String> ExecutedScriptNames) method====================
