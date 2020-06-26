@@ -4,13 +4,13 @@
 /Data.xlsx
 /IEDriverServer.exe
 /IEDriverServer_32.exe
-/InitialDriverRegistration/
 /SalesForce/
 /Securitax/
 /TestData/
 /chromedriver.exe
 /chromedriver_win32(2.36)/
 /com/
+/InitialDriverRegistration/
 /genericcode/
 /genericcodedata.xlsx
 /jmeter.log

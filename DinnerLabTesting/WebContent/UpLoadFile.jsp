@@ -6,8 +6,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<link type="text/css" rel="stylesheet" href="Main.css" />
-<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" /> 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Upload File</title>
 
@@ -23,7 +21,7 @@ function file_upload()
 		alert("Please upload your file");
 		//document.file.word.focus();
 		return false;
-	}
+	} 
  }
  
  function back()
@@ -33,30 +31,20 @@ function file_upload()
  }
 </script>
 <body>
-<div id="logo">
-<a id="logout"  class="slds-button slds-button_neutral backbutton" onclick="back()" style="">&nbsp;</a>
-<a id="logout" class="slds-button slds-button_neutral" href="client.jsp" onclick="return setSessionOff();">Logout</a>
-</div>
-<div id="clienthome_container">
-<div class="header" style="">
-<h3 style="">File Upload</h3>
-
-</div>
-</div>
-
-
-<!-- <div class="header" style="">
-<h3 style="">File Upload</h3>
-
-</div> -->
-<div id="upload_container">
-<!-- <h3>Select a file to upload</h3> -->
-<img src="Images/software_testing.png" width="40%" height="auto"/>
-<form action="UpLoadServlet" method="post" enctype="multipart/form-data"  onsubmit="return file_upload();" class="upload_form">
-<input type="file" name="file" size="90" id="word" class="file_btn"/>
-<input id="upload" type="submit" value="Upload File" class="upload_btn" />
+<jsp:include page="header.jsp" />
+<div class="container">
+<h2 class="slds-card__header-title purple">
+         <a href="javascript:void(0);" class="slds-card__header-link slds-truncate">
+           <span><i class="fa fa-upload" aria-hidden="true"></i></i> UPLOAD INPUT FILE</span>
+         </a>
+</h2>
+<br/>
+<div class="file-upload"> 
+<form action="UpLoadServlet" method="post" enctype="multipart/form-data"  onsubmit="return file_upload();">
+<input type="file" name="file" size="90" id="word"/>
+<input id="upload" type="submit" value="Upload File" class="slds-button slds-button_brand"/> 
 </form>
 </div>
-<!-- <div class="footer" style=""><p style="">CRMIT &copy 2018</p></div> -->
+</div>
 </body>
 </html>

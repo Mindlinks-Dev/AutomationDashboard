@@ -37,6 +37,10 @@
 <div class="nav-margin">
 <div class="panel-success">
 <div class="panel-head">
+<i class="fa fa-file-text" aria-hidden="true"></i> Project Scripts Executed 
+</div>
+<div class="panel-content">
+<ol class="slds-list_ordered">
 <%	
 /*
 Written by = shridhar 
@@ -184,8 +188,7 @@ code = order of execution code
 	if(SelectedIds != null && SelectedIds.length>0)
 	{
 			%>
-			<center>
-			<div style="margin-top: 60px;">
+			<div>
 			<%
 
 		  	System.out.println("<h1>You have Executed following Scripts </h1>");
@@ -207,7 +210,7 @@ code = order of execution code
 			 		QueryIds=QueryIds+",";
 			 		}
 				%>
-				<div align="left" style="text-align:center;list-style-type:none;font-size:20px;">
+				<div>
 				<%
 		 			out.println("<li>"+ScriptEntity.HScenarios.get(selectedScriptNames)); 
 		 		%>
@@ -218,7 +221,6 @@ code = order of execution code
 	 			//emailString=getSlectedScriptNames+",";
 				%>
 				</div>
-				</center>
 				<% 
 	 				
 		 		System.out.println("Inside executescript jsp QueryIds"+QueryIds);
@@ -301,6 +303,7 @@ code = order of execution code
 					scriptobj.ScriptCategoryId= rSelectedIds.getInt("script_category_id");
 					scriptobj.ScriptCategoryName= rSelectedIds.getString("script_category_Name");
 					scriptobj.ScriptPackageName = rSelectedIds.getString("script_package_Name");
+					scriptobj.Project_Id =rSelectedIds.getInt("ProjectId");
 					ExecutedScripts.add(rSelectedIds.getString("script_name"));
 					//System.out.println("scriptobj.ScriptId:"+scriptobj.ScriptId+"ScriptId:"+ScriptId);  
 							
@@ -314,7 +317,7 @@ code = order of execution code
 					scriptobjlist.add(scriptobj);
 					
 					//printing varaibles
-				/*System.out.println("Selected  Script Id:"+scriptobj.ScriptId);
+				System.out.println("Selected  Script Id:"+scriptobj.ScriptId);
 				System.out.println("Selected Script Name:"+scriptobj.ScriptName);
 			    System.out.println("Selected Script input file:"+scriptobj.ScriptInputFile);
 				System.out.println("Selected Script scenario:"+scriptobj.ScriptScenario);
@@ -322,7 +325,8 @@ code = order of execution code
 				System.out.println("Selected Script status:"+scriptobj.ScriptStatus);
 				System.out.println("Selected Script categoryId:"+scriptobj.ScriptCategoryId);
 				System.out.println("Selected Script categoryName:"+scriptobj.ScriptCategoryName);
-				*/
+				System.out.println("Selected Script projectid:"+scriptobj.Project_Id);
+				
 				}//end of while loop 
 			
 	  	   //2.Write to the execution table
@@ -442,14 +446,17 @@ code = order of execution code
 	}
 	else
 	{
-		out.println("please Select atleast one Script!");
+		out.println("Please select atleast one script.");
 	}
 	  
 
 	
 	%>
+	</ol>
+	<br/>
+	<div class="alert-success"><b>Note : </b>Executed script result will be sent to your registered e-mail.</div>
 	</div>
-	  	 <p >Executed script result will be sent to your registered e-mail.</p>
+	  	 
 	  	</div>
 </div>	
 <!--  <div class="footer" style=""><p style="">Mindlinks Solution &copy 2019</p></div> -->

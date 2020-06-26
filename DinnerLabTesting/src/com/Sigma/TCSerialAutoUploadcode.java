@@ -14,7 +14,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
-import com.Base.Testbase;
+//import com.Base.Testbase;
 
 public class TCSerialAutoUploadcode extends Testbase{
 

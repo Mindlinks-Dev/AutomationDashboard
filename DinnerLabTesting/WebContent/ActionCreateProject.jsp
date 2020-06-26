@@ -87,14 +87,14 @@ $(function() {
 	  </div>
 	  
 	  
-	  <div class="slds-form slds-form_horizontal">
+	<!--    <div class="slds-form slds-form_horizontal">
 	  <div class="slds-form-element">
 		<label class="slds-form-element__label" for="input-id-01">End Date</label>
 		<div class="slds-form-element__control">
 		  <input type="text" id="EndDate" name="EndDate"/>
 		</div>
 	  </div>
-	  </div>
+	  </div>-->
 	
 
      </div>
@@ -103,8 +103,8 @@ $(function() {
      <footer class="slds-modal__footer">
        <!--  <input class="slds-button slds-button_brand" type="submit" id="submit1" value="Create" onclick="CreateProject()"/>-->
        <button class="slds-button slds-button_brand" onclick="Create()">Create</button>
-       <button class="slds-button slds-button_neutral" onclick="closePopup()">Cancel</button>
-       
+        <input type="button" onclick="closePopup()" value="close"/>
+      
        <!-- <button class="slds-button slds-button_brand" onclick="SaveUpload()" type="submit">Save</button> -->
         
       </footer>  
@@ -126,12 +126,12 @@ $(function() {
 		var Status=document.getElementById("Status").value;
 		var Type=document.getElementById("Type").value;
 		var StartDate=document.getElementById("StartDate").value;
-		var EndDate=document.getElementById("EndDate").value;
+		//var EndDate=document.getElementById("EndDate").value;
   }
   function closePopup()
   {
 	  //alert('closePopup');
-	  location.reload();
+	  history.back();
   }
 function uploadPopup()
 {

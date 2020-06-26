@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Login</title>
-
-<link href="TableCSSCode.css">
-
-<link type="text/css" rel="stylesheet" href="Main.css" />
-<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" /> 
+<title>Automation Dashboard Login</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,300" rel='stylesheet' type='text/css'>
+	
+<link type="text/css" rel="stylesheet" href="css/styles.css" /> 
+<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" />
 </head>
 <script type="text/javascript">  
                          function matchpass()
@@ -41,22 +41,12 @@
 
 </script> 
 <body>
-<div id="logo">
-<!-- <a id="logout" class="slds-button slds-button_neutral" href="client.jsp" onclick="return setSessionOff();">Logout</a> -->
-</div>
-<div id="clienthome_container">
-<div class="header" style="">
-<h3 style="">Sigma Automation Portal</h3>
 
-</div>
-</div>
-
-
-<div id="container_logo">
-
+<div class="login-page">
   		
   		<form action="UserLoginPage" name="f" method="get">
-		  		<img src="Images/login.png" style="width:60%;margin-left:16%;"/><br/>
+		  		<h1>Login</h1>
+		  		<h2>Sigma Automation Dashboard </h2>
 		 		<label>Name</label><br/>
 				<input type="text" name="name" id="name" class="logo_input" placeholder="Enter your Name"/><br/>
 		   
@@ -70,9 +60,9 @@
 				
 				
 				
-		        <input type="submit" id="submit" class="logo_submit" href="#" value="Login" onclick="return matchpass();"/>
+		        <input type="submit" id="submit" class="login-btn" href="#" value="Login" onclick="return matchpass();"/>
 				
-		        <a class="signupBtn" href ="Registration.jsp">Signup</a>
+		        <p>Don't have an account? <a class="signupBtn" href ="Registration.jsp"> Register</a></p>
         
     </form>
         

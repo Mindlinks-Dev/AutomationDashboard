@@ -57,11 +57,11 @@ import com.dinnerLab.util.HTMLToExcel;
 import com.dinnerLab.util.JmeterReport;
 import com.dinnerLab.util.OutputReport;
 import com.dinnerLab.util.OutputReportArchiveFile;
-import com.dynamicload.LoadClass;
+//import com.dynamicload.LoadClass;
 import com.jmeter.batchFile.JmeterBatchFile;
 import com.zap.exefile.ZapExecutionFile;
 
-import cohbainessandbox.LoadClassNew;
+//import cohbainessandbox.LoadClassNew;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -96,6 +96,7 @@ public class ScriptHandler
 	public static ArrayList<String> comment = new ArrayList<String>();
 	public static int executionId;
 	public static int ScriptID;
+	public static int ProjectID;
 	int printscriptStartTime=0;
 	public static int runIncrement;
 	 private static Logger log = Logger.getLogger(ScriptHandler.class);
@@ -146,17 +147,22 @@ public class ScriptHandler
 		for(int i=0;i<scriptlist.size();i++)
 		{
 			ScriptID=scriptlist.get(i).ScriptId;
+			ProjectID=scriptlist.get(i).Project_Id;
+			System.out.println("PROJECTID>>>>"+ProjectID);
 			//System.out.println("Working inside script handler loop ::"+i);
 			int ScriptID=scriptlist.get(i).ScriptId;
+			int ProjectID=scriptlist.get(i).Project_Id;
 			System.out.println("after assigning to integer inside script handler ScriptID:"+ScriptID);
+			System.out.println("after assigning to integer inside script handler ProjectID:"+ProjectID);
+			//System.out.println("after assigning to integer inside script handler ScriptID:"+ScriptID);
 			// updating the starttime in executiondetails table
-			scriptstarttime = "UPDATE executiondetails SET starttime=now()  WHERE scriptid="+ScriptID+" and execid="+execId;
+			scriptstarttime = "UPDATE executiondetails SET starttime=now()  WHERE Project_Id="+ProjectID+" and scriptid="+ScriptID+" and execid="+execId;
 			System.out.println("scriptstarttime:"+scriptstarttime);
 			printscriptStartTime=stm.executeUpdate(scriptstarttime);
 			System.out.println("Script start time :"+printscriptStartTime);
 			
 			//Retrieving the starttime value from executiondetails table
-			rs=stm.executeQuery("SELECT starttime from executiondetails WHERE scriptid="+ScriptID+" and execid="+execId);
+			rs=stm.executeQuery("SELECT starttime from executiondetails WHERE Project_Id="+ProjectID+" and scriptid="+ScriptID+" and execid="+execId);
 			while(rs.next())
 			{			
 			startTime=rs.getString(1);
@@ -955,6 +961,37 @@ public class ScriptHandler
 					attr1.setValue("Securitax.initialregistration");
 					class95.setAttributeNode(attr1);
 					break;
+					
+				case 96:
+    				Element class96 = doc.createElement("class");
+					classes.appendChild(class96);  
+					//set attribute to class element
+					attr1 = doc.createAttribute("name");
+					attr1.setValue("com.Sigma.TCCancelRun");
+					class96.setAttributeNode(attr1);
+					break;
+					
+				case 97:
+    				Element class97 = doc.createElement("class");
+					classes.appendChild(class97);  
+					//set attribute to class element
+					attr1 = doc.createAttribute("name");
+					attr1.setValue("com.Sigma.TCAutoallocation");
+					class97.setAttributeNode(attr1);
+					break;
+					
+				case 98:
+    				Element class98 = doc.createElement("class");
+					classes.appendChild(class98);  
+					//set attribute to class element
+					attr1 = doc.createAttribute("name");
+					attr1.setValue("com.Sigma.TCAutoallocation");
+					class98.setAttributeNode(attr1);
+					break;
+					
+					
+					
+					
 					
 
 				default:

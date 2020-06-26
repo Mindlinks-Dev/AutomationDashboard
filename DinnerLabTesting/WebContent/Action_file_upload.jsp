@@ -22,6 +22,7 @@ $(document).ready(function(){
 	//document.getElementById('myInput').value=fileName();
 });
 </script>
+<jsp:include page="header.jsp" />
 
 <body onload="initialize();">
 <%
@@ -124,16 +125,17 @@ $(document).ready(function(){
    }
    
 %>
-<div class="slds-backdrop slds-backdrop_open"></div>
-<section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal slds-fade-in-open">
-    
-    <div class="slds-modal__container">    
-     
+<div class="container" style="padding:0;">
+
             <div class="slds-modal__content" id="modal-content-id-1">
       
 <form action="UploadFileNew" method="post" >
-      <header class="slds-modal__header">       
-        <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Uploaded File</h2>
+      <header class="slds-modal__header slds-text-align_left">       
+       <h2 class="slds-card__header-title purple">
+         <a href="javascript:void(0);" class="slds-card__header-link slds-truncate">
+           <span><i class="fa fa-upload" aria-hidden="true"></i></i> UPLOADED FILE</span>
+         </a>
+</h2>
       </header>
       <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
       
@@ -148,12 +150,28 @@ $(document).ready(function(){
 			  <input type="text" id="myInput7" name="script_id"/>
 			</div>
 		  </div>-->
-
+		
+		<div class="slds-grid">
+		<div class="slds-col">
+		<label class="slds-form-element__label" for="input-id-01">Script name</label>
+		<input type="text" id="myInput" class="slds-input" name="script_name" title="Script name should be same as project name"/>
+		
+		</div>
+		<div class="slds-col">
+		</div>
+		<div class="slds-col">
+		<label class="slds-form-element__label" for="input-id-01">Script scenario</label>
+		<input type="text" id="myInput2" class="slds-input" name="script_scenerio"/>
+		</div>
+		<div class="slds-col">
+		
+		</div>
+		</div>
 		<div class="slds-form slds-form_horizontal">
 		  <div class="slds-form-element">
-			<label class="slds-form-element__label" for="input-id-01">Script name</label>
+			
 			<div class="slds-form-element__control">
-			  <input type="text" id="myInput" name="script_name" title="Script name should be same as project name"/>
+			  
 			  </div>
 		  </div>
 		  
@@ -165,9 +183,9 @@ $(document).ready(function(){
 		  </div>-->
 		  
 		  <div class="slds-form-element">
-			<label class="slds-form-element__label" for="input-id-01">Script scenario</label>
+			
 			<div class="slds-form-element__control">
-			  <input type="text" id="myInput2" name="script_scenerio"/>
+			  
 			</div>
 		  </div>
 		  
@@ -214,12 +232,12 @@ $(document).ready(function(){
 	  
       <footer class="slds-modal__footer">
        <input class="slds-button slds-button_brand" type="submit" id="submit1" value="Save" />
-        <button class="slds-button slds-button_neutral" onclick="cancelUploadPopup()">Cancel</button>
         
         <!-- <button class="slds-button slds-button_brand" onclick="SaveUpload()" type="submit">Save</button> -->
        
       </footer> 
       </form>
+      </div>
       </div>
 </body>
 </html>

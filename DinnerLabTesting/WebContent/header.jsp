@@ -17,7 +17,7 @@
 <link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" />
 
 <script type="text/javascript">
-function standardBack()
+function back()
 {
 	history.back();
 }
@@ -40,16 +40,25 @@ function standardBack()
 <span>Logged User</span></p>
 </div>
 <ul>
-<li class="active"><a href="#" href="ProjectSetup.jsp"><i class="fa fa-desktop" aria-hidden="true"></i> Dashboard</a></li>
-<li><a href="#" href="ProjectSetup.jsp"><i class="fa fa-file-text" aria-hidden="true"></i> Project Setup</a></li>
+<li class="active"><a href="ProjectSetup.jsp"><i class="fa fa-desktop" aria-hidden="true"></i> Dashboard</a></li>
+<li><a href="ProjectSetup.jsp"><i class="fa fa-file-text" aria-hidden="true"></i> Project Setup</a></li>
 <li><a></a></li>
 <li><a></a></li>
 </ul>
 </nav>
 
 <div class="welcome">
- <p>Welcome to Sigma</p>
- <p class="small"><b>Automation</b> Portal</p>
+<div class="slds-grid">
+<div class="slds-col slds-col-1">
+<a title="Back" onclick="back()"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i></a>
+</div>
+<div class="slds-col slds-col-2">
+<p>Welcome to Sigma</p>
+ <p class="small"><b>Automation Portal</b></p> 
+</div>
+</div>
+ 
+ 
 <!-- <img src="Images/Welcome.png"/> -->
 </div>
 

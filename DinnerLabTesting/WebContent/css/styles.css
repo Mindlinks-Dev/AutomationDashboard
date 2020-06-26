@@ -19,6 +19,55 @@ a{
 a:hover{
 	text-decoration:none;
 }
+.login-page{
+	width:100%;
+	height:100vh;
+	background:url("../Images/Automation.jpg")
+}
+.login-page form{
+	width:35%;
+	margin:auto;
+	background:white;
+	 margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); 
+  padding: 25px 50px; 
+}
+.login-page h1{
+	    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+    color: black;
+}
+.login-page h2{
+	    font-size: 16px;
+    color: #111111;
+    text-align: center;
+    margin-bottom: 18px;
+}
+.login-page label{
+	    color: #979696;
+}
+.login-page input{
+	    min-height: 44px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid #e7e7e7;
+    padding: 10px 15px;
+    color: #111111;
+    width:100%;
+        margin-bottom: 10px;
+}
+.login-page .login-btn{
+	color: #fff;
+    border-radius: 3px;
+    background-color: #5a8dee;
+    padding: 10px 36px;
+    margin: 20px 0;
+}
 .header-bg{
 	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
     background: #3f51b5;
@@ -52,14 +101,17 @@ a:hover{
   font-size: 22px;
   position: relative;
 }
+.logo a:hover{
+	color:white !important;
+}
 .logout a{
 	    float: right;
     position: relative;
-    top: 9px;
+    top: 13px;
     right: 8px;
 }
 .logout a img{
-	width:38px;
+	width:32px;
 	float:right;
 }
 nav{
@@ -127,18 +179,33 @@ nav i{
 	
 }
 .profile span{
-	font-size:80%;
+	font-size:10px;
 	text-transform:uppercase;
 	color:#464646;
 }
 .welcome{
 	background: #fff;
-    border: 1px solid #f7f7f7;
+    border: 1px solid #f7f7f7; 
     padding: 12px 20px;
     border-color: #e7e7e7;
     margin:75px 20px 20px 270px;
      border-left: 3px solid #39DA8A;
 }
+.welcome .slds-col-1{
+	width:3%; 
+}
+.welcome .slds-col-1 .back{
+	font-size: 24px;
+	position: absolute;
+    margin-top: 6px;
+
+	}
+.welcome .slds-col-2{
+	width:97%;
+	border-left: 1px solid #dddbda;
+	padding-left: 14px;
+}
+
 .welcome p{
 	padding:2px;
 	margin:0;
@@ -158,7 +225,7 @@ nav i{
 .panel-grid .slds-col{
 	background:white;
 	    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
-	    margin: 8px;
+	    margin: 0 8px;
     width: 25%;
 }
 .panel-grid .slds-col:hover{	
@@ -215,10 +282,32 @@ nav i{
 .panel-success{
 	border:1px solid #4caf50;
 	display:block;
+	background:white;
 }
 .panel-success .panel-head{
 	background:#4caf50;
 	color:white;
+	padding:14px 22px;
+	text-transform:uppercase;
+}
+.panel-success .panel-content{
+	padding:14px 22px;
+}
+.panel-success ol{
+}
+.alert-success{
+	background:#b9f1e4;
+	color:#066b54;
+	padding:10px;
+	border-radius:4px;
+} 
+.file-upload{
+	    border: 2px dashed #e2e2e2;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    width: 50%;
+    margin:auto;
 }
 .custom-table th,.custom-table td{
 	padding:10px !important;
@@ -234,8 +323,8 @@ nav i{
 	}
 	.update-btn{
 	    color: white !important;
-    background-color: #3d8b40;
-    border-color: #38813b;
+    background-color: #04844b;
+    border-color: #04844b;
     padding: 5px;
 	}
 	.update-btn{
@@ -243,31 +332,16 @@ nav i{
 	}
 	
 	.fa-green{
-	background:#f3f6f9;
 	color:#1bc5bd;
 	padding:4px 0;
 	}
-	.fa-green:hover{
-	background:#1bc5bd;
-	color:#f3f6f9;
-	}
 	.fa-blue{
-	background:#f3f6f9;
 	color:#3699ff;
 	padding:4px 0;
 	}
-	.fa-blue:hover{
-	background:#3699ff;
-	color:#f3f6f9;
-	}
 	.fa-red{
-	background:#f3f6f9;
 	color:#f64e60;
 	padding:4px 0;
-	}
-	.fa-red:hover{
-	background:#f64e60;
-	color:#f3f6f9;
 	}
 	.dataTables_wrapper .dataTables_paginate .paginate_button.current{
 	    background: #3f51b5;

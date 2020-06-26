@@ -4,11 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Login</title>
+<title>Registration</title>
 
-<link href="TableCSSCode.css">
-
-<link type="text/css" rel="stylesheet" href="Main.css" /> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,300" rel='stylesheet' type='text/css'>
+	
+<link type="text/css" rel="stylesheet" href="css/styles.css" /> 
+<link type="text/css" rel="stylesheet" href="Static/salesforce-lightning-design-system.min.css" />
 
 </head>
 <script type="text/javascript">  
@@ -56,22 +58,12 @@
 
 </script> 
 <body>
- <div id="logo">
-<a id="logout"  class="slds-button slds-button_neutral backbutton" href="client.jsp" style="width:35px;height:35px;">&nbsp;</a>
-<!-- <a id="logout" class="slds-button slds-button_neutral" href="client.jsp" onclick="return setSessionOff();">Logout</a> -->
-</div>
-<div id="clienthome_container">
-<div class="header" style="">
-<h3 style="">Sigma Automation Portal</h3>
 
-</div>
-
-
-
-<div id="container_logo" class="registerMain">
+<div class="login-page">
 
    <form action=UserSignup1 name="f" method="get">
-  		<img src="Images/register.png" style="width:60%;margin-left:16%;"/><br/>
+  		<h1>Register</h1>
+		<h2>Sigma Automation Dashboard </h2>
  		<label>Name</label><br/>
 		<input type="text" name="name" id="name" class="logo_input" placeholder="Enter your Name"/><br/>
    
@@ -85,12 +77,12 @@
 		<label>Confirm Password</label><br/>
 		<input type="password" name="confirmpassword" id="confirmpassword" class="logo_input" placeholder="Confirm Password"/><br/>
 		
-        <input type="submit" id="submit" class="logo_submit" href="#" value="Signup" onclick="return matchpass();"/>
-		
+        <input type="submit" id="submit" class="login-btn" href="#" value="Signup" onclick="return matchpass();"/>
+		<p>Already have an account? <a class="signupBtn" href ="client.jsp"> Login</a></p>
        
     </form>
         
 </div>
-   <!--     <div class="footer" style=""><p style="">Mindlinks Solution &copy 2018</p></div>     -->  
+ 
 </body>
 </html>

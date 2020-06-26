@@ -24,7 +24,7 @@ public class ScriptEntity {
 	public int execid=0;
 	public boolean containsFlow=false;
 	public String FlowID;
-
+    public int Project_Id=0;
 	public int getScriptId() {
 		return ScriptId;
 	}
@@ -103,9 +103,11 @@ public void setFlowID(String FlowID)
 		this.FlowID=FlowID;
 	}
 	
-
-	
-	
-	
+public int getProjectid() {
+	return Project_Id;
+}
+public void setProjectid(int Project_Id) {
+	this.Project_Id = Project_Id;
+}
 
 }

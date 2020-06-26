@@ -89,7 +89,7 @@ String Output_Report_Location=null;
 %>
 
 
-<table id="example"  class="custom-table slds-table slds-table_cell-buffer slds-table_bordered slds-table_col-bordered"><!-- class="display" -->
+<table id="example"  class="custom-table slds-table slds-table_cell-buffer slds-table_bordered slds-table_col-bordered" style="border: 1px solid lightgray;"><!-- class="display" -->
 
 
 <thead>
@@ -228,7 +228,7 @@ String Output_Report_Location=null;
  <td><%=  rs.getString(3)%></td>
  <td><%=  rs.getString(2)%></td>
  <td><%=  End_Time%></td>
- <td><span class="slds-text-color_success"><b><%=  rs.getString(5)%></b></span></td>
+ <td><span class="slds-text-color_success"><%=  rs.getString(5)%></span></td>
  <td><%=  Time_Taken %></td>
  <td><a title="Download" href="${pageContext.request.contextPath}/DownLoadFileServlet?id=<%= rs.getString(4) %>"><i class="fa fa-download fa-green" aria-hidden="true"></i></a>
  <a title="View" href="/SigmaAutomation/Report/Results/Run_<%= Report_Link %>/CurrentRun.html" target="_blank"><i class="fa fa-eye fa-blue" aria-hidden="true"></i></a>
