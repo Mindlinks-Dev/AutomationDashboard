@@ -24,7 +24,7 @@
 <script src="js/jquery.min.js"></script>
 <script>
 
-  //added by Shridhar to validate order of execution on 12-09-2018
+  //Added by Shridhar to validate order of execution on 12-09-2018
  
 $(document).ready(function()
 {

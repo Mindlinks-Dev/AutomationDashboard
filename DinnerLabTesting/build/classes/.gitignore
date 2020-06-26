@@ -10,6 +10,8 @@
 /SalesForce/
 /Securitax/
 /TestData/
+/UploadFilesTest.class
+/UploadFilesTestPage.class
 /chromedriver.exe
 /chromedriver_win32(2.36)/
 /com/
@@ -17,5 +19,3 @@
 /genericcodedata.xlsx
 /jmeter.log
 /log4j.properties
-/UploadFilesTest.class
-/UploadFilesTestPage.class

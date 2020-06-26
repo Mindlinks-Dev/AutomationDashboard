@@ -104,7 +104,6 @@ String Output_Report_Location=null;
                 <th id="upload">Status</th>
                 <th id="upload">Time Taken</th>
                 <th id="upload">Action</th>
-                <th id="upload"></th>
                 <!--<th id="upload"  style="border-radius:0;">Excel Report</th>  -->
             </tr>
         </thead>

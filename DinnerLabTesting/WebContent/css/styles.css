@@ -98,8 +98,8 @@ a:hover{
 .hide { 
   display: none;
 }
-.logout-hover:hover + .hide {
-  display: block;
+.logoutHover:hover+.hide {
+  display: block ;
 }
 .logo {
   height: 55px;  
@@ -133,8 +133,9 @@ a:hover{
 	color:white;
 }
 .logout .slds-popover{
-	top: 55px;
-    right: -40px;
+	right: 14px;
+    width: 110%;
+    top:25px;
 }
 .logout .text-small{
 	font-size:10px;
