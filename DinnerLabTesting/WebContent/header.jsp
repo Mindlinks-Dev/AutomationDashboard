@@ -30,7 +30,13 @@ function back()
 </div>
 <div class="logout">
 <a id="logout" href="client.jsp" onclick="return setSessionOff();" title="Logout"><img src="Images/logged-user.png"/></a>
+<section aria-label="Dialog title" aria-describedby="popover-body-id" class="slds-popover slds-nubbin_top-right" role="dialog">
+<div id="popover-body-id" class="slds-popover__body">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, quaerat? Accusamus excepturi eos, molestias expedita distinctio eligendi ut esse quasi!</p>
 </div>
+</section>
+</div>
+
 </header>
 <nav>
 <div class="profile">

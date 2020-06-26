@@ -104,6 +104,9 @@ a:hover{
 .logo a:hover{
 	color:white !important;
 }
+.logout{
+	float:right; 
+}
 .logout a{
 	    float: right;
     position: relative;
